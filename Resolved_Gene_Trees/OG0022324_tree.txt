@@ -1,0 +1,1 @@
+((Taxus_chinensis_rna-gnl|WGS_JAHRHJ|evm2.model.Chr08.959 gene_gene-KI387_026327 seq_id_CM034153.1 type_cds:0.085168,Pinus_tabuliformis_Pt2G54100.1 gene_Pt2G54100 seq_id_chr2 type_cds:0.15946)n1:0.004522,(Prunus_avium_Prunavi_FUN_018569-T1.p1:0.56262,Betula_pendula_Betpen_Bpev01.c1837.g0006.m0002:0.25015)n2:0.004522)n0;

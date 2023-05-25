@@ -1,0 +1,1 @@
+(Populus_tremula_Poptre_Potra2n350s35375.1:0.407029,((Medicago_truncatula_Medtr2g037720.1.JCVIMt4.0v1 gene_Medtr2g037720.JCVIMt4.0v1 seq_id_chr2 type_cds:0.398395,Medicago_truncatula_Medtr7g025420.1.JCVIMt4.0v1 gene_Medtr7g025420.JCVIMt4.0v1 seq_id_chr7 type_cds:0.827441)n2:0.087469,Betula_pendula_Betpen_Bpev01.c0045.g0062.m0001:0.752633)n1:0.407029)n0;

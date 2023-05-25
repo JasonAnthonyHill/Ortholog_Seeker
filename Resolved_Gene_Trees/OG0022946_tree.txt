@@ -1,0 +1,1 @@
+(Vitis_vinifera_GSVIVT01026323001.Genoscope12X gene_GSVIVG01026323001.Genoscope12X seq_id_chr4 type_cds:0.386666,(Ginkgo_biloba_Gb_26453 _translate_table_ standard_:0.588568,(Pinus_tabuliformis_Pt1G02960.1 gene_Pt1G02960 seq_id_chr1 type_cds:0.37727,Pinus_tabuliformis_Pt1G03040.1 gene_Pt1G03040 seq_id_chr1 type_cds:0.26009)n2:0.713661)n1:0.386666)n0;

@@ -1,0 +1,1 @@
+((Malania_oleifera_Maole_010657.T1 gene_Maole_010657 seq_id_scaffold184 type_cds:0.231459,Camellia_sinensis_rna-gnl|WGS_SDRB|TEA005407.1 gene_gene-TEA_004841 seq_id_SDRB02010023.1 type_cds:0.705731)n1:0.030372,(Sequoiadendron_giganteum_nbisL2-cds-13316 gene_SEGI_17853 seq_id_chr7 type_cds:0.627888,Ginkgo_biloba_Gb_31900 _translate_table_ standard_:0.650239)n2:0.030372)n0;

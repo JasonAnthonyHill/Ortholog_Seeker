@@ -1,0 +1,1 @@
+(Welwitschia_mirabilis_W.mirabilis.15707  locus_Chr17_6099239_6101097_+ _translate_table_ standard_:0.332954,(Betula_pendula_Betpen_Bpev01.c2042.g0003.m0001:0.51507,(Betula_pendula_Betpen_Bpev01.c0458.g0026.m0001:0.462786,Betula_pendula_Betpen_Bpev01.c0458.g0020.m0001:0.718745)n2:0.317994)n1:0.332954)n0;

@@ -1,0 +1,1 @@
+(Medicago_truncatula_Medtr1g066780.1.JCVIMt4.0v1 gene_Medtr1g066780.JCVIMt4.0v1 seq_id_chr1 type_cds:0.73334,(Populus_tremula_Poptre_Potra2n19c33944.1:1.0242,(Populus_tremula_Poptre_Potra2n12c23875.1:0.323486,(Populus_tremula_Poptre_Potra2n12c23739.2:1.08284,Populus_tremula_Poptre_Potra2n4c9219.1:0.009365)n3:0.148339)n2:0.305002)n1:0.73334)n0;

@@ -1,0 +1,1 @@
+(Malania_oleifera_Maole_019154.T1 gene_Maole_019154 seq_id_scaffold257 type_cds:0.563817,(Populus_tremula_Poptre_Potra2n1c1190.1:1.13507,(Populus_tremula_Poptre_Potra2n9c19990.1:0.239324,Populus_tremula_Poptre_Potra2n19c33930.1:0.876927)n2:0.423277)n1:0.563817)n0;

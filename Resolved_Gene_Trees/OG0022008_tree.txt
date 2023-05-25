@@ -1,0 +1,1 @@
+(Camellia_sinensis_rna-gnl|WGS_SDRB|TEA028529.1 gene_gene-TEA_025490 seq_id_SDRB02002161.1 type_cds:0.809322,((Arabidopsis_thaliana_PAC_19643332 gene_AT2G12940 seq_id_Chr2 type_cds:0.185267,Arabidopsis_thaliana_PAC_19643316 gene_AT2G13150 seq_id_Chr2 type_cds:0.183235)n2:0.184657,Arabidopsis_thaliana_PAC_19640907 gene_AT2G12900 seq_id_Chr2 type_cds:0.304304)n1:0.809322)n0;

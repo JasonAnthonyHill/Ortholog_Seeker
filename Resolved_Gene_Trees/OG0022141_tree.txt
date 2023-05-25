@@ -1,0 +1,1 @@
+((Prunus_avium_Prunavi_FUN_000212-T1.p1:0.6682,Populus_tremula_Poptre_Potra2n10c21705.1:0.72396)n1:0.0223235,(Camellia_sinensis_rna-gnl|WGS_SDRB|TEA009941.1 gene_gene-TEA_008847 seq_id_SDRB02008475.1 type_cds:0.7136,Beta_vulgaris_Bv5_125190_esmu.t2 gene_Bv5_125190_esmu seq_id_Bvchr5_un.sca014 type_cds:0.924732)n2:0.0223235)n0;

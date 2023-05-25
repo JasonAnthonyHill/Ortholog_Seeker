@@ -1,0 +1,1 @@
+(Malania_oleifera_Maole_016871.T1 gene_Maole_016871 seq_id_scaffold42 type_cds:0.407234,((Pinus_tabuliformis_PtXG38570.1 gene_PtXG38570 seq_id_chr10 type_cds:0.017604,Pinus_tabuliformis_PtXG31570.1 gene_PtXG31570 seq_id_chr10 type_cds:0.024764)n2:0.575609,Pinus_tabuliformis_Pt0G26730.1 gene_Pt0G26730 seq_id_tig00268199 type_cds:0.112159)n1:0.407234)n0;

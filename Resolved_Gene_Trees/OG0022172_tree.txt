@@ -1,0 +1,1 @@
+((Betula_pendula_Betpen_Bpev01.c3039.g0002.m0001:0.620621,Betula_pendula_Betpen_Bpev01.c0094.g0144.m0001:0.844981)n1:0.151559,(Beta_vulgaris_Bv_010020_cefw.t1 gene_Bv_010020_cefw seq_id_0269.scaffold00704 type_cds:1.06047,Malania_oleifera_Maole_018732.T1 gene_Maole_018732 seq_id_Mt_1 type_cds:0.303284)n2:0.151559)n0;

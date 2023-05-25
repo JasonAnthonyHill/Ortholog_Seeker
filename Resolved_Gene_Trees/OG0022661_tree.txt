@@ -1,0 +1,1 @@
+(Prunus_avium_Prunavi_FUN_007336-T1.p1:0.284226,(Eucalyptus_grandis_Eucgr.F00898.1.v2.0 gene_Eucgr.F00898.v2.0 seq_id_Chr06 type_cds:0.165293,(Eucalyptus_grandis_Eucgr.L01108.1.v2.0 gene_Eucgr.L01108.v2.0 seq_id_scaffold_112 type_cds:0.021769,Eucalyptus_grandis_Eucgr.F00796.1.v2.0 gene_Eucgr.F00796.v2.0 seq_id_Chr06 type_cds:0.006856)n2:0.050422)n1:0.284226)n0;

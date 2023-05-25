@@ -1,0 +1,1 @@
+((Pinus_tabuliformis_PtXG34430.1 gene_PtXG34430 seq_id_chr10 type_cds:0.629643,Pinus_tabuliformis_PtXG34420.1 gene_PtXG34420 seq_id_chr10 type_cds:0.541839)n1:0.334174,(Betula_pendula_Betpen_Bpev01.c3320.g0004.m0001:1.1256,Betula_pendula_Betpen_Bpev01.c0016.g0005.m0001:0.651494)n2:0.334174)n0;

@@ -1,0 +1,1 @@
+(Physcomitrella_patens_PAC_32976319 gene_Pp3c6_26360 seq_id_Chr06 type_cds:0.24657,((Pinus_tabuliformis_PtQG25490.1 gene_PtQG25490 seq_id_chr12 type_cds:0.146193,Pinus_tabuliformis_Pt3G44850.1 gene_Pt3G44850 seq_id_chr3 type_cds:0.113238)n2:0.186905,Nicotiana_tabacum_Nitab4.5_0001401g0030.1 gene_Nitab4.5_0001401g0030 seq_id_Nitab4.5_0001401 type_cds:0.443675)n1:0.24657)n0;

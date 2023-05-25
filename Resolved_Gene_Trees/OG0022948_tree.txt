@@ -1,0 +1,1 @@
+((Physcomitrella_patens_PAC_32937447 gene_Pp3c2_19720 seq_id_Chr02 type_cds:0.165525,Physcomitrella_patens_PAC_32966728 gene_Pp3c1_26700 seq_id_Chr01 type_cds:0.195193)n1:0.265435,(Ginkgo_biloba_Gb_11731 _translate_table_ standard_:0.234005,Taxus_chinensis_rna-gnl|WGS_JAHRHJ|evm2.model.Chr11.424 gene_gene-KI387_035540 seq_id_CM034156.1 type_cds:0.746146)n2:0.265435)n0;

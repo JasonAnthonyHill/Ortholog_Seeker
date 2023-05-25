@@ -1,0 +1,1 @@
+(Sequoiadendron_giganteum_nbisL2-cds-336 gene_SEGI_21530 seq_id_chr5 type_cds:0.192636,(Ginkgo_biloba_Gb_05196 _translate_table_ standard_:0.554274,(Ginkgo_biloba_Gb_14638 _translate_table_ standard_:0.271379,Ginkgo_biloba_Gb_05197 _translate_table_ standard_:0.142151)n2:0.22696)n1:0.192636)n0;

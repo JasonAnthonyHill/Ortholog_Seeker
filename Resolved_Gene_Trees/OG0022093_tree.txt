@@ -1,0 +1,1 @@
+(Beta_vulgaris_Bv4_077950_drsg.t1 gene_Bv4_077950_drsg seq_id_Bvchr4.sca003 type_cds:0.395112,(Medicago_truncatula_Medtr1g077140.1.JCVIMt4.0v1 gene_Medtr1g077140.JCVIMt4.0v1 seq_id_chr1 type_cds:0.650564,(Populus_tremula_Poptre_Potra2n19c34439.1:0.615175,Betula_pendula_Betpen_Bpev01.c2571.g0005.m0001:0.460913)n2:0.158492)n1:0.395112)n0;

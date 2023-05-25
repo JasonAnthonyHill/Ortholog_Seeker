@@ -1,0 +1,1 @@
+(Ginkgo_biloba_Gb_04004 _translate_table_ standard_:0.210725,(Taxus_chinensis_rna-gnl|WGS_JAHRHJ|evm2.model.Chr02.2875 gene_gene-KI387_007079 seq_id_CM034147.1 type_cds:0.345653,(Pinus_tabuliformis_PtQG23260.1 gene_PtQG23260 seq_id_chr12 type_cds:0.004284,Pinus_tabuliformis_PtQG23280.1 gene_PtQG23280 seq_id_chr12 type_cds:0.107635)n2:0.357132)n1:0.210725)n0;

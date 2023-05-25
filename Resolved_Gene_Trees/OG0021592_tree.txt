@@ -1,0 +1,1 @@
+(Pinus_tabuliformis_PtQG33580.1 gene_PtQG33580 seq_id_chr12 type_cds:0.518095,(((Prunus_avium_Prunavi_FUN_025401-T1.p1:0.12066,Prunus_avium_Prunavi_FUN_025385-T1.p1:0.470875)n3:0.062172,Prunus_avium_Prunavi_FUN_004079-T1.p1:0.649831)n2:0.257217,Prunus_avium_Prunavi_FUN_024813-T1.p2:0.364775)n1:0.518095)n0;

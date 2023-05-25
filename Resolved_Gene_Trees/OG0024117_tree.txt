@@ -1,0 +1,1 @@
+(Physcomitrella_patens_PAC_32921806 gene_Pp3c4_7202 seq_id_Chr04 type_cds:0.607935,(Pinus_tabuliformis_Pt9G55180.1 gene_Pt9G55180 seq_id_chr9 type_cds:0.031305,(Pinus_tabuliformis_Pt3G09770.1 gene_Pt3G09770 seq_id_chr3 type_cds:0.00442,Pinus_tabuliformis_Pt4G33440.1 gene_Pt4G33440 seq_id_chr4 type_cds:0.004522)n2:0.203591)n1:0.607935)n0;

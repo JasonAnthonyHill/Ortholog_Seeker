@@ -1,0 +1,1 @@
+((Taxus_chinensis_rna-gnl|WGS_JAHRHJ|evm2.model.Chr12.1857 gene_gene-KI387_040007 seq_id_CM034157.1 type_cds:0.318838,Sequoiadendron_giganteum_nbisL2-cds-36346 gene_SEGI_06579 seq_id_chr6 type_cds:0.153381)n1:0.253526,(Ginkgo_biloba_Gb_36056 _translate_table_ standard_:0.172823,Ginkgo_biloba_Gb_06710 _translate_table_ standard_:0.021677)n2:0.253526)n0;

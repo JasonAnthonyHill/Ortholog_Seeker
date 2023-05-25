@@ -1,0 +1,1 @@
+(Ginkgo_biloba_Gb_40297 _translate_table_ standard_:0.457573,((Sequoiadendron_giganteum_nbisL2-cds-11872 gene_SEGI_20888 seq_id_chr5 type_cds:1.86993e-06,Sequoiadendron_giganteum_nbisL2-cds-11631 gene_SEGI_34094 seq_id_chr3 type_cds:0.4351)n2:0.360355,Taxus_chinensis_rna-gnl|WGS_JAHRHJ|evm2.model.Chr08.386 gene_gene-KI387_025754 seq_id_CM034153.1 type_cds:0.209217)n1:0.457573)n0;

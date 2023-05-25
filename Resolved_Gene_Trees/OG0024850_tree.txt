@@ -1,0 +1,1 @@
+(Sequoiadendron_giganteum_nbisL2-cds-19449 gene_SEGI_23078 seq_id_chr7 type_cds:0.273732,(Pinus_tabuliformis_Pt6G00540.1 gene_Pt6G00540 seq_id_chr6 type_cds:1.14681e-06,(Pinus_tabuliformis_PtJG08730.1 gene_PtJG08730 seq_id_chr11 type_cds:0.281133,Pinus_tabuliformis_Pt3G08950.1 gene_Pt3G08950 seq_id_chr3 type_cds:0.298315)n2:0.026044)n1:0.273732)n0;

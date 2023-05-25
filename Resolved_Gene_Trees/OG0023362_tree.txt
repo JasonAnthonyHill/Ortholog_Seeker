@@ -1,0 +1,1 @@
+(Pinus_tabuliformis_PtJG30390.1 gene_PtJG30390 seq_id_chr11 type_cds:0.552061,(Prunus_avium_Prunavi_FUN_031377-T1.p1:0.818512,(Malus_domestica_evm.model.Backbone_1814.3 gene_evm.model.Backbone_1814.3.g seq_id_Backbone_1814 type_cds:0.780997,Malus_domestica_evm.model.Backbone_984.8 gene_evm.model.Backbone_984.8.g seq_id_Backbone_984 type_cds:0.965465)n2:0.027816)n1:0.552061)n0;

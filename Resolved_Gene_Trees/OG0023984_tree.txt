@@ -1,0 +1,1 @@
+(Nicotiana_tabacum_Nitab4.5_0001487g0020.1 gene_Nitab4.5_0001487g0020 seq_id_Nitab4.5_0001487 type_cds:0.500821,(Salix_purpurea_SapurV1A.0234s0110.1.v1.0 gene_SapurV1A.0234s0110.v1.0 seq_id_chr07 type_cds:0.656616,(Populus_tremula_Poptre_Potra2n290s35222.1:1.6667e-06,Populus_tremula_Poptre_Potra2n779s36748.1:0.358441)n2:0.0398268)n1:0.118247)n0;

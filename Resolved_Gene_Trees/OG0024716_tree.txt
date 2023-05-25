@@ -1,0 +1,1 @@
+(Prunus_avium_Prunavi_FUN_028169-T1.p1:0.223711,(Pinus_tabuliformis_Pt2G11530.1 gene_Pt2G11530 seq_id_chr2 type_cds:0.015324,(Pinus_tabuliformis_Pt1G58290.1 gene_Pt1G58290 seq_id_chr1 type_cds:0.002352,Pinus_tabuliformis_Pt8G05330.1 gene_Pt8G05330 seq_id_chr8 type_cds:0.078804)n2:0.037835)n1:0.223711)n0;

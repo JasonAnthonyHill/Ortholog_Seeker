@@ -1,0 +1,1 @@
+(Physcomitrella_patens_PAC_32964609 gene_Pp3c8_16140 seq_id_Chr08 type_cds:0.493221,(Ginkgo_biloba_Gb_34591 _translate_table_ standard_:0.394862,(Sequoiadendron_giganteum_nbisL2-cds-7407 gene_SEGI_32876 seq_id_chr4 type_cds:0.255364,Sequoiadendron_giganteum_nbisL2-cds-31615 gene_SEGI_05735 seq_id_chr4 type_cds:0.55221)n2:0.074286)n1:0.493221)n0;

@@ -1,0 +1,1 @@
+(Sequoiadendron_giganteum_nbisL2-cds-36410 gene_SEGI_02316 seq_id_chr3 type_cds:0.295019,((Sequoiadendron_giganteum_nbisL2-cds-31709 gene_SEGI_10198 seq_id_chr8 type_cds:0.920761,Sequoiadendron_giganteum_nbisL2-cds-36365 gene_SEGI_08605 seq_id_chr9 type_cds:0.593285)n2:0.17362,Sequoiadendron_giganteum_nbisL2-cds-31135 gene_SEGI_00573 seq_id_chr8 type_cds:0.427453)n1:0.295019)n0;

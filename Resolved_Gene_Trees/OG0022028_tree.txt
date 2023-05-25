@@ -1,0 +1,1 @@
+((Pinus_tabuliformis_PtJG52550.1 gene_PtJG52550 seq_id_chr11 type_cds:0.63526,Sequoiadendron_giganteum_nbisL2-cds-27449 gene_SEGI_24962 seq_id_chr10 type_cds:0.946155)n1:0.383694,(Arabidopsis_thaliana_PAC_19665188 gene_AT3G20980 seq_id_Chr3 type_cds:0.768972,Arabidopsis_thaliana_PAC_19660704 gene_AT3G21000 seq_id_Chr3 type_cds:0.742053)n2:0.383694)n0;

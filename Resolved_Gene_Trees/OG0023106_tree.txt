@@ -1,0 +1,1 @@
+(Malus_domestica_evm.model.Backbone_4191.1 gene_evm.model.Backbone_4191.1.g seq_id_Backbone_4191 type_cds:0.412627,((Picea_abies_PICAB_chr09_M00002388009 gene_PICAB_chr09_G00002388008 seq_id_PA_chr09 type_cds:0.431125,Pinus_tabuliformis_PtQG03200.1 gene_PtQG03200 seq_id_chr12 type_cds:0.146949)n2:0.086237,Ginkgo_biloba_Gb_37551 _translate_table_ standard_:0.629498)n1:0.412627)n0;

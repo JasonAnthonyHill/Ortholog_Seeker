@@ -1,0 +1,1 @@
+(Malania_oleifera_Maole_006230.T1 gene_Maole_006230 seq_id_scaffold15 type_cds:0.589623,(Populus_tremula_Poptre_Potra2n18c32331.1:0.331049,(Salix_purpurea_SapurV1A.0588s0070.1.v1.0 gene_SapurV1A.0588s0070.v1.0 seq_id_chr18 type_cds:0.042234,Salix_purpurea_SapurV1A.0962s0040.1.v1.0 gene_SapurV1A.0962s0040.v1.0 seq_id_chr18 type_cds:0.005395)n2:0.316464)n1:0.589623)n0;

@@ -1,0 +1,1 @@
+(Eucalyptus_grandis_Eucgr.C01872.1.v2.0 gene_Eucgr.C01872.v2.0 seq_id_Chr03 type_cds:0.198078,((Populus_tremula_Poptre_Potra2n18c33151.1:0.169693,Populus_tremula_Poptre_Potra2n18c33159.1:1.9024e-06)n2:0.419939,Populus_tremula_Poptre_Potra2n18c33154.1:0.988878)n1:0.198078)n0;

@@ -1,0 +1,1 @@
+(Prunus_avium_Prunavi_FUN_009403-T1.p1:0.0366555,(Prunus_avium_Prunavi_FUN_015598-T1.p1:0.354312,((Prunus_avium_Prunavi_FUN_001148-T1.p1:2.25179e-06,Prunus_avium_Prunavi_FUN_036482-T1.p1:1.03894)n3:0.71871,Prunus_avium_Prunavi_FUN_035606-T1.p1:2.25179e-06)n2:0.187608)n1:0.0366555)n0;

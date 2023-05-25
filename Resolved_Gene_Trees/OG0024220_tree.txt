@@ -1,0 +1,1 @@
+(Physcomitrella_patens_PAC_32945317 gene_Pp3c20_23920 seq_id_Chr20 type_cds:0.21505,(Salix_purpurea_SapurV1A.1186s0100.1.v1.0 gene_SapurV1A.1186s0100.v1.0 seq_id_Scaffold1186 type_cds:0.677935,(Pinus_tabuliformis_Pt0G06770.1 gene_Pt0G06770 seq_id_tig00008751 type_cds:0.171692,Pinus_tabuliformis_Pt1G73810.1 gene_Pt1G73810 seq_id_chr1 type_cds:0.258162)n2:0.689069)n1:0.21505)n0;

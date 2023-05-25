@@ -1,0 +1,1 @@
+(Physcomitrella_patens_PAC_32902892 gene_Pp3c22_14400 seq_id_Chr22 type_cds:0.336342,(Taxus_chinensis_rna-gnl|WGS_JAHRHJ|evm2.model.Chr08.103 gene_gene-KI387_025471 seq_id_CM034153.1 type_cds:0.223426,(Sequoiadendron_giganteum_nbisL2-cds-15481 gene_SEGI_31224 seq_id_chr4 type_cds:0.680408,Ginkgo_biloba_Gb_25176 _translate_table_ standard_:0.378013)n2:0.106142)n1:0.336342)n0;

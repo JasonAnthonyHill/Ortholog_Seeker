@@ -1,0 +1,1 @@
+(Beta_vulgaris_Bv_038001z6220.t1 gene_Bv_038001z6220 seq_id_contig141751 type_cds:0.677578,(Ginkgo_biloba_Gb_31585 _translate_table_ standard_:0.625012,(Pinus_tabuliformis_Pt8G05190.1 gene_Pt8G05190 seq_id_chr8 type_cds:0.133945,Pinus_tabuliformis_Pt6G64170.1 gene_Pt6G64170 seq_id_chr6 type_cds:0.345441)n2:0.247454)n1:0.677578)n0;

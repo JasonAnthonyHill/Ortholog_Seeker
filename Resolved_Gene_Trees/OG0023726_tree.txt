@@ -1,0 +1,1 @@
+(Nicotiana_tabacum_Nitab4.5_0004372g0080.1 gene_Nitab4.5_0004372g0080 seq_id_Nitab4.5_0004372 type_cds:0.194657,((Prunus_avium_Prunavi_FUN_007290-T1.p1:0.28058,Prunus_avium_Prunavi_FUN_018853-T1.p1:0.217431)n2:0.388011,Medicago_truncatula_Medtr4g069560.1.JCVIMt4.0v1 gene_Medtr4g069560.JCVIMt4.0v1 seq_id_chr4 type_cds:0.577811)n1:0.194657)n0;

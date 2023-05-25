@@ -1,0 +1,1 @@
+(Nicotiana_tabacum_Nitab4.5_0000344g0210.1 gene_Nitab4.5_0000344g0210 seq_id_Nitab4.5_0000344 type_cds:0.203977,(Pinus_tabuliformis_Pt9G09380.1 gene_Pt9G09380 seq_id_chr9 type_cds:0.816008,(Ginkgo_biloba_Gb_04049 _translate_table_ standard_:2.19307e-06,Ginkgo_biloba_Gb_39507 _translate_table_ standard_:0.062213)n2:0.907535)n1:0.203977)n0;

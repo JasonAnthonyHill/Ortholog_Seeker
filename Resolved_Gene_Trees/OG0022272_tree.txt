@@ -1,0 +1,1 @@
+(Picea_abies_PICAB_chr01_M00000281753 gene_PICAB_chr01_G00000281752 seq_id_PA_chr01 type_cds:0.298015,(Nicotiana_tabacum_Nitab4.5_0000065g0050.1 gene_Nitab4.5_0000065g0050 seq_id_Nitab4.5_0000065 type_cds:0.434413,(Betula_pendula_Betpen_Bpev01.c0287.g0012.m0001:0.746779,Betula_pendula_Betpen_Bpev01.c0111.g0005.m0001:0.429505)n2:0.100852)n1:0.298015)n0;

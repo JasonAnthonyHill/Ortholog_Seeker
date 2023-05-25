@@ -1,0 +1,1 @@
+((Malus_domestica_evm.model.Backbone_6804.4 gene_evm.model.Backbone_6804.4.g seq_id_Backbone_6804 type_cds:0.417655,Vitis_vinifera_GSVIVT01019878001.Genoscope12X gene_GSVIVG01019878001.Genoscope12X seq_id_chr2 type_cds:0.380344)n1:0.125774,(Ginkgo_biloba_Gb_09561 _translate_table_ standard_:0.175145,Ginkgo_biloba_Gb_21292 _translate_table_ standard_:0.53494)n2:0.125774)n0;

@@ -1,0 +1,1 @@
+(Medicago_truncatula_Medtr4g132980.1.JCVIMt4.0v1 gene_Medtr4g132980.JCVIMt4.0v1 seq_id_chr4 type_cds:0.723036,((Ginkgo_biloba_Gb_33436 _translate_table_ standard_:0.461842,Ginkgo_biloba_Gb_16309 _translate_table_ standard_:0.814354)n2:0.208735,Ginkgo_biloba_Gb_01284 _translate_table_ standard_:0.712908)n1:0.723036)n0;

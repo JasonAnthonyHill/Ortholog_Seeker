@@ -1,0 +1,1 @@
+((Malus_domestica_evm.model.Backbone_5206.6 gene_evm.model.Backbone_5206.6.g seq_id_Backbone_5206 type_cds:0.619425,Pinus_tabuliformis_Pt1G58470.1 gene_Pt1G58470 seq_id_chr1 type_cds:0.083454)n1:0.105038,(Betula_pendula_Betpen_Bpev01.c0505.g0001.m0001:0.806025,Ginkgo_biloba_Gb_00337 _translate_table_ standard_:0.653132)n2:0.105038)n0;

@@ -1,0 +1,1 @@
+(Cucumis_sativus_Cucsa.108410.1.v1.122 gene_Cucsa.108410.v1 seq_id_scaffold00931 type_cds:0.495785,(Picea_abies_PICAB_chr09_M00002441011 gene_PICAB_chr09_G00002441010 seq_id_PA_chr09 type_cds:0.268462,(Pinus_tabuliformis_PtJG32730.1 gene_PtJG32730 seq_id_chr11 type_cds:0.220722,Pinus_tabuliformis_Pt5G44400.1 gene_Pt5G44400 seq_id_chr5 type_cds:0.074368)n2:0.307511)n1:0.495785)n0;

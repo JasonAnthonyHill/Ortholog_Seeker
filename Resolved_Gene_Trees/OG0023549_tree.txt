@@ -1,0 +1,1 @@
+(Malus_domestica_evm.model.Backbone_4491.1 gene_evm.model.Backbone_4491.1.g seq_id_Backbone_4491 type_cds:0.376679,(Pinus_tabuliformis_Pt1G61740.1 gene_Pt1G61740 seq_id_chr1 type_cds:0.145046,(Pinus_tabuliformis_Pt3G67700.1 gene_Pt3G67700 seq_id_chr3 type_cds:0.021508,Pinus_tabuliformis_PtQG27870.1 gene_PtQG27870 seq_id_chr12 type_cds:0.280632)n2:0.322948)n1:0.376679)n0;

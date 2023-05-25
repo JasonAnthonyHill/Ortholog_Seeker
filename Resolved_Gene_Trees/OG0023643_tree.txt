@@ -1,0 +1,1 @@
+((Populus_tremula_Poptre_Potra2n12c24556.1:0.534549,Populus_tremula_Poptre_Potra2n15c28302.1:0.599498)n1:0.0429235,(Medicago_truncatula_Medtr7g069990.1.JCVIMt4.0v1 gene_Medtr7g069990.JCVIMt4.0v1 seq_id_chr7 type_cds:0.506204,Medicago_truncatula_Medtr2g015880.1.JCVIMt4.0v1 gene_Medtr2g015880.JCVIMt4.0v1 seq_id_chr2 type_cds:0.58776)n2:0.0429235)n0;

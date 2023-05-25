@@ -1,0 +1,1 @@
+(Physcomitrella_patens_PAC_32902423 gene_Pp3c10_9910 seq_id_Chr10 type_cds:0.0695275,((Physcomitrella_patens_PAC_32970650 gene_Pp3c1_36410 seq_id_Chr01 type_cds:0.128733,Physcomitrella_patens_PAC_32933490 gene_Pp3c2_4460 seq_id_Chr02 type_cds:0.121346)n2:0.121246,Physcomitrella_patens_PAC_32961495 gene_Pp3c14_22480 seq_id_Chr14 type_cds:0.163105)n1:0.0695275)n0;

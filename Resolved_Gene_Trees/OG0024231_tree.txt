@@ -1,0 +1,1 @@
+(Physcomitrella_patens_PAC_32948524 gene_Pp3s30_890 seq_id_scaffold_30 type_cds:0.438478,(Physcomitrella_patens_PAC_32948468 gene_Pp3s30_900 seq_id_scaffold_30 type_cds:0.731372,(Physcomitrella_patens_PAC_32948386 gene_Pp3s32_180 seq_id_scaffold_32 type_cds:1.73616,Physcomitrella_patens_PAC_32945167 gene_Pp3s42_170 seq_id_scaffold_42 type_cds:0.837557)n2:0.154518)n1:0.438478)n0;

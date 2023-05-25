@@ -1,0 +1,1 @@
+(Physcomitrella_patens_PAC_32911361 gene_Pp3c9_3670 seq_id_Chr09 type_cds:0.478565,((Pinus_tabuliformis_PtXG28070.1 gene_PtXG28070 seq_id_chr10 type_cds:0.422714,Ginkgo_biloba_Gb_11862 _translate_table_ standard_:0.565385)n2:0.092943,Malus_domestica_evm.model.Backbone_4575.1 gene_evm.model.Backbone_4575.1.g seq_id_Backbone_4575 type_cds:0.412541)n1:0.478565)n0;

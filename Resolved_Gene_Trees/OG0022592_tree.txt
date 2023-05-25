@@ -1,0 +1,1 @@
+(Cucumis_sativus_Cucsa.056550.1.v1.122 gene_Cucsa.056550.v1 seq_id_scaffold00603 type_cds:0.904635,((Populus_tremula_Poptre_Potra2n1049s36949.1:0.154853,Populus_tremula_Poptre_Potra2n1069s36960.1:0.310172)n2:0.099996,Populus_tremula_Poptre_Potra2n13c25461.1:0.510814)n1:0.904635)n0;

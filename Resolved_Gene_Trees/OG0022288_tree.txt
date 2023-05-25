@@ -1,0 +1,1 @@
+(Ginkgo_biloba_Gb_02495 _translate_table_ standard_:0.479892,(Malus_domestica_evm.model.Backbone_238.17 gene_evm.model.Backbone_238.17.g seq_id_Backbone_238 type_cds:0.63916,(Betula_pendula_Betpen_Bpev01.c0094.g0230.m0001:0.445403,Medicago_truncatula_Medtr2g040760.1.JCVIMt4.0v1 gene_Medtr2g040760.JCVIMt4.0v1 seq_id_chr2 type_cds:0.69191)n2:0.246122)n1:0.479892)n0;

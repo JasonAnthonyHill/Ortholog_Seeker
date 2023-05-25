@@ -1,0 +1,1 @@
+(Sequoiadendron_giganteum_nbisL2-cds-26554 gene_SEGI_13903 seq_id_chr11 type_cds:0.534381,((Prunus_avium_Prunavi_FUN_032316-T1.p1:0.202711,Prunus_avium_Prunavi_FUN_032312-T1.p1:0.134093)n2:0.7756,Medicago_truncatula_Medtr2g074900.1.JCVIMt4.0v1 gene_Medtr2g074900.JCVIMt4.0v1 seq_id_chr2 type_cds:0.507923)n1:0.534381)n0;

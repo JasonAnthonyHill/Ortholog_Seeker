@@ -1,0 +1,1 @@
+(Taxus_chinensis_rna-gnl|WGS_JAHRHJ|evm2.model.Chr03.31 gene_gene-KI387_008006 seq_id_CM034148.1 type_cds:0.452765,(Pinus_tabuliformis_Pt4G52910.1 gene_Pt4G52910 seq_id_chr4 type_cds:0.068033,(Pinus_tabuliformis_PtXG30510.1 gene_PtXG30510 seq_id_chr10 type_cds:0.355749,Pinus_tabuliformis_Pt1G03300.1 gene_Pt1G03300 seq_id_chr1 type_cds:1.39922e-06)n2:0.086303)n1:0.452765)n0;

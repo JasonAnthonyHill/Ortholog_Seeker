@@ -1,0 +1,1 @@
+(Prunus_avium_Prunavi_FUN_031413-T1.p1:0.450823,(Pinus_tabuliformis_Pt6G63050.1 gene_Pt6G63050 seq_id_chr6 type_cds:0.721883,(Ginkgo_biloba_Gb_37201 _translate_table_ standard_:0.551094,Ginkgo_biloba_Gb_25395 _translate_table_ standard_:0.533907)n2:0.059323)n1:0.046436)n0;

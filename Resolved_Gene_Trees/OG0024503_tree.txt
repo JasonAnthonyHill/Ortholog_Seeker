@@ -1,0 +1,1 @@
+((Populus_tremula_Poptre_Potra2n1338s37007.1:2.52798e-06,Populus_tremula_Poptre_Potra2n9c19737.1:0.02597)n1:0.58651,(Picea_abies_PICAB_chr09_M00002428271 gene_PICAB_chr09_G00002428254 seq_id_PA_chr09 type_cds:0.677531,Taxus_chinensis_rna-gnl|WGS_JAHRHJ|evm2.model.Chr02.1253 gene_gene-KI387_005457 seq_id_CM034147.1 type_cds:0.669437)n2:0.58651)n0;

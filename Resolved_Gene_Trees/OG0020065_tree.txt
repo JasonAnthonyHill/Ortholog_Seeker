@@ -1,0 +1,1 @@
+((Pinus_tabuliformis_PtQG30820.1 gene_PtQG30820 seq_id_chr12 type_cds:0.463841,Pinus_tabuliformis_Pt2G50940.1 gene_Pt2G50940 seq_id_chr2 type_cds:2.90421e-06)n1:0.139405,(Ginkgo_biloba_Gb_23606 _translate_table_ standard_:1.11197,(Ginkgo_biloba_Gb_08415 _translate_table_ standard_:0.326962,Ginkgo_biloba_Gb_28703 _translate_table_ standard_:0.784289)n3:0.182782)n2:0.139405)n0;

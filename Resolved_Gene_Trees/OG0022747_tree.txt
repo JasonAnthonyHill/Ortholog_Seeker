@@ -1,0 +1,1 @@
+((Pinus_tabuliformis_Pt4G14510.1 gene_Pt4G14510 seq_id_chr4 type_cds:0.018713,Pinus_tabuliformis_Pt4G14520.1 gene_Pt4G14520 seq_id_chr4 type_cds:0.028854)n1:0.28837,(Ginkgo_biloba_Gb_10477 _translate_table_ standard_:0.961292,Ginkgo_biloba_Gb_02712 _translate_table_ standard_:0.311588)n2:0.28837)n0;

@@ -1,0 +1,1 @@
+(Betula_pendula_Betpen_Bpev01.c1255.g0001.m0001:0.056388,(Ginkgo_biloba_Gb_18852 _translate_table_ standard_:1.27263,(Sequoiadendron_giganteum_nbisL2-cds-30195 gene_SEGI_03372 seq_id_chr4 type_cds:0.244886,Sequoiadendron_giganteum_nbisL2-cds-7877 gene_SEGI_27005 seq_id_chr8 type_cds:0.240359)n2:0.0267066)n1:0.518894)n0;

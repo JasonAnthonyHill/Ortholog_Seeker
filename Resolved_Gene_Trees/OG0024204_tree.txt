@@ -1,0 +1,1 @@
+((Physcomitrella_patens_PAC_32982887 gene_Pp3c18_3000 seq_id_Chr18 type_cds:0.39406,Physcomitrella_patens_PAC_32905370 gene_Pp3s177_60 seq_id_scaffold_177 type_cds:0.529125)n1:0.191163,(Prunus_avium_Prunavi_FUN_036996-T1.p1:0.580078,Sequoiadendron_giganteum_nbisL2-cds-29719 gene_SEGI_06986 seq_id_chr9 type_cds:0.566917)n2:0.191163)n0;

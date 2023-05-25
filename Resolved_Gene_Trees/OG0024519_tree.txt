@@ -1,0 +1,1 @@
+(Populus_tremula_Poptre_Potra2n7c16045.1:0.268535,(Picea_abies_PICAB_chr09_M00002594226 gene_PICAB_chr09_G00002594225 seq_id_PA_chr09 type_cds:0.446335,(Pinus_tabuliformis_Pt0G14440.1 gene_Pt0G14440 seq_id_tig00010253 type_cds:0.125305,Pinus_tabuliformis_Pt5G13080.1 gene_Pt5G13080 seq_id_chr5 type_cds:0.103936)n2:0.407246)n1:0.268535)n0;
