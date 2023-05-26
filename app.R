@@ -10,7 +10,7 @@ library(rtracklayer)
 
 
 # Import Data
-orthologs <- read_tsv("Phylogenetic_Hierarchical_Orthogroups/N0.tsv") %>%
+orthologs <- read_tsv("https://github.com/JasonAnthonyHill/Ortholog_Seeker/raw/main/Phylogenetic_Hierarchical_Orthogroups/N0.tsv.gz") %>%
   gather("species","ortholog",4:27) %>% 
   separate_longer_delim(ortholog, delim = ", ") %>% 
   drop_na() %>% 
@@ -26,8 +26,8 @@ orthologs <- read_tsv("Phylogenetic_Hierarchical_Orthogroups/N0.tsv") %>%
   select(-HOG, -`Gene Tree Parent Clade`) %>% 
   rename(Fasta_header = ortholog, Ortholog_Group = OG)
 
-species_tree <- read.tree(file = "species_list_v4.nwk")
-spruce_gff <- import("Picab02_codingAll.gff3.gz")
+# species_tree <- read.tree(file = "species_list_v4.nwk")
+spruce_gff <- import("https://github.com/JasonAnthonyHill/Ortholog_Seeker/raw/main/Phylogenetic_Hierarchical_Orthogroups/Picab02_codingAll.gff3.gz")
 
 # Define UI for Shiny App
 ui <- fluidPage(
@@ -100,7 +100,7 @@ server <- function(input, output) {
   
   # Load Fasta Sequences
   fasta <- eventReactive(input$go, {
-    readAAStringSet(filepath = paste0("Orthogroup_Sequences/", filtered_data()$Ortholog_Group %>% unique(), ".fa.gz")) %>% 
+    readAAStringSet(filepath = paste0("https://github.com/JasonAnthonyHill/Ortholog_Seeker/raw/main/Phylogenetic_Hierarchical_Orthogroups/Orthogroup_Sequences/", filtered_data()$Ortholog_Group %>% unique(), ".fa.gz")) %>% 
       .[grepl(str_c(filtered_data() %>% 
                       filter(species %in% input$species) %>% 
                       pull(gene),
@@ -132,7 +132,7 @@ server <- function(input, output) {
 
   # Load Newick Tree
   tree <- eventReactive(input$go, {
-    read.tree(paste0("Resolved_Gene_Trees/", filtered_data()$Ortholog_Group %>% unique(), "_tree.txt"))
+    read.tree(paste0("https://github.com/JasonAnthonyHill/Ortholog_Seeker/raw/main/Phylogenetic_Hierarchical_Orthogroups/Resolved_Gene_Trees/", filtered_data()$Ortholog_Group %>% unique(), "_tree.txt"))
   })
 
   #Filter Newick Tree
