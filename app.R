@@ -40,6 +40,7 @@ ui <- fluidPage(
   
   sidebarLayout(
     sidebarPanel(
+      actionButton("selectall", label="Select/Deselect all"),
       checkboxGroupInput("species",
                          "Select a species:", 
                          choices = unique(orthologs$species),
@@ -48,7 +49,8 @@ ui <- fluidPage(
       actionButton("go", "Update"),
       br(),
       downloadButton("download_filtered", "Download Filtered Ortholog List"),
-      downloadButton("download_fasta", "Download Aligned Fasta Sequences"),
+      downloadButton("download_fasta", "Download Fasta Sequences"),
+      downloadButton("download_fasta_aln", "Download Aligned Fasta Sequences"),
       downloadButton("download_newick", "Download Newick Tree"),
       downloadButton("download_gff", "Download spruce GFF3")
     ),
@@ -77,6 +79,23 @@ server <- function(input, output) {
   o <- observe({
     shinyjs::click("go")
     o$destroy() # destroy observer as it has no use after initial button click
+  })
+  
+  # Select or deselect all
+  observe({
+    if (input$selectall > 0) {
+      if (input$selectall %% 2 == 0){
+        updateCheckboxGroupInput(inputId="species",
+                                 choices = unique(orthologs$species),
+                                 selected = unique(orthologs$species))
+        
+      }
+      else {
+        updateCheckboxGroupInput(inputId="species",
+                                 choices = unique(orthologs$species),
+                                 selected = c())
+        
+      }}
   })
   
   # Filter the Ortholog Data
@@ -118,14 +137,24 @@ server <- function(input, output) {
   #     pull(seqid)
   # })
   
+  # Download Filtered Fasta Sequences
+  output$download_fasta <- downloadHandler(
+    filename = function() {
+      paste0("Ortholog_Sequences_", filtered_data()$Ortholog_Group, ".fasta")
+    },
+    content = function(file) {
+      Biostrings::writeXStringSet(fasta(), filepath = file)
+    }
+  )
+  
   # Align fasta file
   aln_fasta <- eventReactive(input$go, {
     fasta() %>% 
       muscle::muscle() %>% as("AAStringSet")
   })
 
-  # Download Filtered Fasta Sequences
-  output$download_fasta <- downloadHandler(
+  # Download Filtered and Aligned Fasta Sequences
+  output$download_fasta_aln <- downloadHandler(
     filename = function() {
       paste0("Ortholog_Sequences_aln_", filtered_data()$Ortholog_Group, ".fasta")
     },
@@ -158,7 +187,7 @@ server <- function(input, output) {
   # Output filtered tree
   output$tree_plot <- renderPlot(
     width = 1000,
-    height = function() 20 * tree_tipcount(),
+    height = function() 20 * (tree_tipcount() + 1),
     {
     treefile <- tree_filtered()
     # treefile <- tree()
