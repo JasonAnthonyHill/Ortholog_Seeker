@@ -1,33 +1,37 @@
 # Load required libraries
 library(shiny)
 library(shinyjs)
-library(tidyverse)
-library(Biostrings)
-library(ape)
+# library(tidyverse)
+# library(BiocManager)
+options(repos = BiocManager::repositories())
+# library(Biostrings)
+# library(ape)
 library(ggtree)
-library(muscle)
-library(rtracklayer)
+library(ggplot2)
+# library(muscle)
+# library(rtracklayer)
+library(magrittr)
 
 
 # Import Data
-orthologs <- read_tsv("https://github.com/JasonAnthonyHill/Ortholog_Seeker/raw/main/Phylogenetic_Hierarchical_Orthogroups/N0.tsv.gz") %>%
-  gather("species","ortholog",4:27) %>% 
-  separate_longer_delim(ortholog, delim = ", ") %>% 
-  drop_na() %>% 
-  separate_wider_delim(ortholog, 
+orthologs <- readr::read_tsv("https://github.com/JasonAnthonyHill/Ortholog_Seeker/raw/main/Phylogenetic_Hierarchical_Orthogroups/N0.tsv.gz") %>%
+  tidyr::gather("species","ortholog",4:27) %>% 
+  tidyr::separate_longer_delim(ortholog, delim = ", ") %>% 
+  tidyr::drop_na() %>% 
+  tidyr::separate_wider_delim(ortholog, 
                        cols_remove = F,
                        delim = " ", 
                        names = c("transcript", "gene"),
                        too_few = "align_start",
                        too_many = "drop") %>% 
-  mutate(gene = if_else(grepl("gene=",gene), gene, transcript)) %>% 
-  mutate(gene = str_replace_all(gene, c("gene=" = ""))) %>% 
-  unite(seqid, species, gene, transcript, remove = F) %>% 
-  select(-HOG, -`Gene Tree Parent Clade`) %>% 
-  rename(Fasta_header = ortholog, Ortholog_Group = OG)
+  dplyr::mutate(gene = dplyr::if_else(grepl("gene=",gene), gene, transcript)) %>% 
+  dplyr::mutate(gene = stringr::str_replace_all(gene, c("gene=" = ""))) %>% 
+  tidyr::unite(seqid, species, gene, transcript, remove = F) %>% 
+  dplyr::select(-HOG, -`Gene Tree Parent Clade`) %>% 
+  dplyr::rename(Fasta_header = ortholog, Ortholog_Group = OG)
 
 # species_tree <- read.tree(file = "species_list_v4.nwk")
-spruce_gff <- import("https://github.com/JasonAnthonyHill/Ortholog_Seeker/raw/main/Phylogenetic_Hierarchical_Orthogroups/Picab02_codingAll.gff3.gz")
+spruce_gff <- rtracklayer::import.gff3("https://github.com/JasonAnthonyHill/Ortholog_Seeker/raw/main/Picab02_codingAll.gff3.gz")
 
 # Define UI for Shiny App
 ui <- fluidPage(
@@ -78,9 +82,9 @@ server <- function(input, output) {
   # Filter the Ortholog Data
   filtered_data <- eventReactive(input$go, {
     orthologs %>%
-      group_by(Ortholog_Group) %>% 
-      filter(any(toupper(gene) == toupper(input$gene)), species %in% input$species) %>% 
-      ungroup()
+      dplyr::group_by(Ortholog_Group) %>% 
+      dplyr::filter(any(toupper(gene) == toupper(input$gene)), species %in% input$species) %>% 
+      dplyr::ungroup()
   })
   
   # Output Table of Ortholog Information
@@ -94,16 +98,16 @@ server <- function(input, output) {
       paste0("Ortholog_List_", filtered_data()$Ortholog_Group, ".tsv")
     },
     content = function(file) {
-      write_tsv(filtered_data(), file)
+      readr::write_tsv(filtered_data(), file)
     }
   )
   
   # Load Fasta Sequences
   fasta <- eventReactive(input$go, {
-    readAAStringSet(filepath = paste0("https://github.com/JasonAnthonyHill/Ortholog_Seeker/raw/main/Phylogenetic_Hierarchical_Orthogroups/Orthogroup_Sequences/", filtered_data()$Ortholog_Group %>% unique(), ".fa.gz")) %>% 
-      .[grepl(str_c(filtered_data() %>% 
-                      filter(species %in% input$species) %>% 
-                      pull(gene),
+    Biostrings::readAAStringSet(filepath = paste0("https://github.com/JasonAnthonyHill/Ortholog_Seeker/raw/main/Orthogroup_Sequences/", filtered_data()$Ortholog_Group %>% unique(), ".fa.gz")) %>% 
+      .[grepl(stringr::str_c(filtered_data() %>% 
+                      dplyr::filter(species %in% input$species) %>% 
+                      dplyr::pull(gene),
                     collapse = "|"), .@ranges@NAMES)]
   })
   
@@ -117,7 +121,7 @@ server <- function(input, output) {
   # Align fasta file
   aln_fasta <- eventReactive(input$go, {
     fasta() %>% 
-      muscle() %>% as("AAStringSet")
+      muscle::muscle() %>% as("AAStringSet")
   })
 
   # Download Filtered Fasta Sequences
@@ -126,19 +130,19 @@ server <- function(input, output) {
       paste0("Ortholog_Sequences_aln_", filtered_data()$Ortholog_Group, ".fasta")
     },
     content = function(file) {
-      writeXStringSet(aln_fasta(), filepath = file)
+      Biostrings::writeXStringSet(aln_fasta(), filepath = file)
     }
   )
 
   # Load Newick Tree
   tree <- eventReactive(input$go, {
-    read.tree(paste0("https://github.com/JasonAnthonyHill/Ortholog_Seeker/raw/main/Phylogenetic_Hierarchical_Orthogroups/Resolved_Gene_Trees/", filtered_data()$Ortholog_Group %>% unique(), "_tree.txt"))
+    ape::read.tree(paste0("https://github.com/JasonAnthonyHill/Ortholog_Seeker/raw/main/Resolved_Gene_Trees/", filtered_data()$Ortholog_Group %>% unique(), "_tree.txt"))
   })
 
   #Filter Newick Tree
   tree_filtered <- eventReactive(input$go, {
     tree <- tree()
-    keep.tip(tree, grep(str_c(input$species,
+    ape::keep.tip(tree, grep(stringr::str_c(input$species,
                           collapse = "|"),
                         tree$tip.label)
     )
@@ -158,10 +162,10 @@ server <- function(input, output) {
     {
     treefile <- tree_filtered()
     # treefile <- tree()
-    ggtree(treefile) + 
-      geom_tiplab() +
-      xlim(0,2) +
-      labs(title = filtered_data()$Ortholog_Group)
+    ggtree::ggtree(treefile) + 
+      ggtree::geom_tiplab() +
+      ggtree::xlim(0,2) +
+      ggplot2::labs(title = filtered_data()$Ortholog_Group)
   })
   
   
@@ -171,20 +175,20 @@ server <- function(input, output) {
       paste0("Ortholog_Tree_", filtered_data()$Ortholog_Group, ".nwk")
     },
     content = function(file) {
-      write.tree(tree_filtered(), file = file)
+      ape::write.tree(tree_filtered(), file = file)
       # write.tree(tree(), file = file)
     }
   )
   
   # Plot Barstack
   output$barstack <- renderPlot(filtered_data() %>%
-                                  group_by(Ortholog_Group, species) %>%
-                                  tally() %>%
-                                  ggplot() +
-                                  geom_col(aes(x = species, y = n, fill = n)) +
-                                  theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust=1),
+                                  dplyr::group_by(Ortholog_Group, species) %>%
+                                  dplyr::tally() %>%
+                                  ggplot2::ggplot() +
+                                  ggplot2::geom_col(aes(x = species, y = n, fill = n)) +
+                                  ggplot2::theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust=1),
                                         legend.position = "none") +
-                                  labs(y = "Number of orthologs", 
+                                  ggplot2::labs(y = "Number of orthologs", 
                                        x = "species",
                                        title = filtered_data()$Ortholog_Group)
   )
@@ -195,12 +199,12 @@ server <- function(input, output) {
       paste0("Picea_abies_Orthologs_", filtered_data()$Ortholog_Group, ".gff3")
     },
     content = function(file) {
-      spruce_genes <- filtered_data() %>% 
-        filter(species == "Picea_abies") %>% 
-        pull(gene)
+      spruce_genes <- filtered_data() %>%
+        dplyr::filter(species == "Picea_abies") %>%
+        dplyr::pull(gene)
       spruce_gff_subset <- subset(spruce_gff, ID %in% spruce_genes)
-      subsetByOverlaps(spruce_gff, spruce_gff_subset) %>% 
-        export.gff3(file)
+      IRanges::subsetByOverlaps(spruce_gff, spruce_gff_subset) %>%
+        rtracklayer::export.gff3(file)
     }
   )
 
@@ -211,4 +215,5 @@ server <- function(input, output) {
 
 # Run Shiny App
 shinyApp(ui = ui, server = server)
+
 
