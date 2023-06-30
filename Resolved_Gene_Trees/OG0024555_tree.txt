@@ -1,1 +1,0 @@
-(Picea_abies_PICAB_chr11_M00003079166 gene_PICAB_chr11_G00003079165 seq_id_PA_chr11 type_cds:0.194499,((Pinus_tabuliformis_PtQG13450.1 gene_PtQG13450 seq_id_chr12 type_cds:0.039661,Pinus_tabuliformis_PtQG35520.1 gene_PtQG35520 seq_id_chr12 type_cds:0.051634)n2:0.206785,Pinus_tabuliformis_PtQG13510.1 gene_PtQG13510 seq_id_chr12 type_cds:0.646446)n1:0.194499)n0;

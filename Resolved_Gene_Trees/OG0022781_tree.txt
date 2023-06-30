@@ -1,1 +1,0 @@
-(Picea_abies_PICAB_cUL05_M00003513324 gene_PICAB_cUL05_G00003513315 seq_id_PA_chr05_cUL0037 type_cds:0.293533,((Ginkgo_biloba_Gb_11628 _translate_table_ standard_:0.535636,Ginkgo_biloba_Gb_04247 _translate_table_ standard_:1.44506e-06)n2:0.145138,Ginkgo_biloba_Gb_13560 _translate_table_ standard_:0.189262)n1:0.293533)n0;

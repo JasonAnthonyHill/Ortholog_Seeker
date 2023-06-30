@@ -1,1 +1,0 @@
-((Picea_abies_PICAB_cUL12_M00003535219 gene_PICAB_cUL12_G00003535218 seq_id_PA_chr12_cUL0047 type_cds:0.007015,Picea_abies_PICAB_cUL12_M00003543274 gene_PICAB_cUL12_G00003543273 seq_id_PA_chr12_cUL0050 type_cds:0.02516)n1:0.313153,(Ginkgo_biloba_Gb_21339 _translate_table_ standard_:0.364779,Ginkgo_biloba_Gb_24700 _translate_table_ standard_:0.03563)n2:0.313153)n0;

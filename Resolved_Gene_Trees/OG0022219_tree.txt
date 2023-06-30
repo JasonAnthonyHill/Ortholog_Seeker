@@ -1,1 +1,0 @@
-(Betula_pendula_Betpen_Bpev01.c0841.g0008.m0005:0.253966,(Betula_pendula_Betpen_Bpev01.c0841.g0008.m0001:0,(Betula_pendula_Betpen_Bpev01.c0841.g0008.m0002:0,Betula_pendula_Betpen_Bpev01.c0841.g0008.m0006:0)n2:0)n1:0.253966)n0;

@@ -1,1 +1,0 @@
-((Malania_oleifera_Maole_008551.T1 gene_Maole_008551 seq_id_scaffold25 type_cds:0.725272,(Ginkgo_biloba_Gb_23625 _translate_table_ standard_:0.328217,Ginkgo_biloba_Gb_15397 _translate_table_ standard_:1.56675)n2:0.174083)n1:0.0526395,Malus_domestica_evm.model.Backbone_872.46 gene_evm.model.Backbone_872.46.g seq_id_Backbone_872 type_cds:0.511787)n0;

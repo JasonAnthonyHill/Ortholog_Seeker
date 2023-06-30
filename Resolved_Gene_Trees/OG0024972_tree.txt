@@ -1,1 +1,0 @@
-(Populus_tremula_Poptre_Potra2n12c24773.1:0.433654,(Pinus_tabuliformis_PtXG33100.1 gene_PtXG33100 seq_id_chr10 type_cds:0.067438,(Pinus_tabuliformis_Pt5G06060.1 gene_Pt5G06060 seq_id_chr5 type_cds:0.184851,Pinus_tabuliformis_Pt9G43190.1 gene_Pt9G43190 seq_id_chr9 type_cds:0.102443)n2:0.023229)n1:0.433654)n0;

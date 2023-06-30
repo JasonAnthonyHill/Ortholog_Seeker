@@ -1,1 +1,0 @@
-(Beta_vulgaris_Bv2_043201z589.t1 gene_Bv2_043201z589 seq_id_Bvchr2.sca018 type_cds:0.440924,((Populus_tremula_Poptre_Potra2n13c25623.1:0.311665,Populus_tremula_Poptre_Potra2n18c32733.1:0.340286)n2:0.543793,(Populus_tremula_Poptre_Potra2n1197s36986.1:0.09199,Populus_tremula_Poptre_Potra2n18c32592.1:2.61314e-06)n3:0.446251)n1:0.440924)n0;

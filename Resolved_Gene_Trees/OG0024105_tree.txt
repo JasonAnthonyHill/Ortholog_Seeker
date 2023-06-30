@@ -1,1 +1,0 @@
-(Picea_abies_PICAB_chr09_M00002499934 gene_PICAB_chr09_G00002499933 seq_id_PA_chr09 type_cds:0.298379,(Physcomitrella_patens_PAC_32941191 gene_Pp3c3_22160 seq_id_Chr03 type_cds:0.204045,(Physcomitrella_patens_PAC_32951465 gene_Pp3c27_290 seq_id_Chr27 type_cds:0.345521,Physcomitrella_patens_PAC_32954010 gene_Pp3c5_20390 seq_id_Chr05 type_cds:0.190093)n2:0.160605)n1:0.298379)n0;

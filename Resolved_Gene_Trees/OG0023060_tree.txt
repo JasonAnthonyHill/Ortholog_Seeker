@@ -1,1 +1,0 @@
-(Picea_abies_PICAB_chr03_M00000889238 gene_PICAB_chr03_G00000889237 seq_id_PA_chr03 type_cds:3.54366e-06,(Ginkgo_biloba_Gb_04424 _translate_table_ standard_:1.46523,(Ginkgo_biloba_Gb_12238 _translate_table_ standard_:0.728784,Ginkgo_biloba_Gb_04423 _translate_table_ standard_:0.814433)n2:0.547531)n1:3.54366e-06)n0;

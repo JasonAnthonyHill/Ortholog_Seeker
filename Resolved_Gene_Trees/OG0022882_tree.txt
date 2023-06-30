@@ -1,1 +1,0 @@
-(Malus_domestica_evm.model.Backbone_1629.2 gene_evm.model.Backbone_1629.2.g seq_id_Backbone_1629 type_cds:0.320964,((Ginkgo_biloba_Gb_20029 _translate_table_ standard_:0.348321,Ginkgo_biloba_Gb_28449 _translate_table_ standard_:0.11981)n2:0.300407,Taxus_chinensis_rna-gnl|WGS_JAHRHJ|evm2.model.Chr02.2460 gene_gene-KI387_006664 seq_id_CM034147.1 type_cds:0.427727)n1:0.320964)n0;

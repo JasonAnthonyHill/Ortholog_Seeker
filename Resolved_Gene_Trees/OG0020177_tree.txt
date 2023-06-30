@@ -1,1 +1,0 @@
-(((Picea_abies_PICAB_chr11_M00003086372 gene_PICAB_chr11_G00003086371 seq_id_PA_chr11 type_cds:0.555882,Ginkgo_biloba_Gb_23978 _translate_table_ standard_:1.00935)n2:0.105012,(Populus_tremula_Poptre_Potra2n1c1291.1:0.579103,Populus_tremula_Poptre_Potra2n3c7762.2:0.674308)n3:0.0749231)n1:0.013896,Pinus_tabuliformis_Pt8G07830.1 gene_Pt8G07830 seq_id_chr8 type_cds:0.821135)n0;

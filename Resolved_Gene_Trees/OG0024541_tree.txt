@@ -1,1 +1,0 @@
-((Pinus_tabuliformis_Pt0G08700.1 gene_Pt0G08700 seq_id_tig00065565 type_cds:0,Pinus_tabuliformis_PtJG44070.1 gene_PtJG44070 seq_id_chr11 type_cds:0)n1:0.069284,(Picea_abies_PICAB_chr10_M00002894864 gene_PICAB_chr10_G00002894863 seq_id_PA_chr10 type_cds:0.167112,Picea_abies_PICAB_chr10_M00002894592 gene_PICAB_chr10_G00002894591 seq_id_PA_chr10 type_cds:0.074826)n2:0.069284)n0;

@@ -1,1 +1,0 @@
-(Salix_purpurea_SapurV1A.0084s0400.1.v1.0 gene_SapurV1A.0084s0400.v1.0 seq_id_chr10 type_cds:0.312001,((Arabidopsis_thaliana_PAC_19642552 gene_AT2G04046 seq_id_Chr2 type_cds:0.27107,Arabidopsis_thaliana_PAC_19642306 gene_AT2G04045 seq_id_Chr2 type_cds:0.332506)n2:0.370659,Arabidopsis_thaliana_PAC_19641909 gene_AT2G25185 seq_id_Chr2 type_cds:0.65624)n1:0.312001)n0;

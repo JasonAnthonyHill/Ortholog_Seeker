@@ -1,1 +1,0 @@
-(Arabidopsis_thaliana_PAC_19670610 gene_AT5G03580 seq_id_Chr5 type_cds:0.458455,((Pinus_tabuliformis_Pt8G51820.1 gene_Pt8G51820 seq_id_chr8 type_cds:0.059401,Pinus_tabuliformis_Pt8G51910.1 gene_Pt8G51910 seq_id_chr8 type_cds:0.119822)n2:0.671713,Taxus_chinensis_rna-gnl|WGS_JAHRHJ|evm2.model.Chr02.3177 gene_gene-KI387_007381 seq_id_CM034147.1 type_cds:0.321475)n1:0.458455)n0;

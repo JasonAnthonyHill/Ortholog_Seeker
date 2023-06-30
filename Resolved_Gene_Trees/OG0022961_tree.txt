@@ -1,1 +1,0 @@
-(Physcomitrella_patens_PAC_32976507 gene_Pp3c6_20360 seq_id_Chr06 type_cds:0.384163,(Sequoiadendron_giganteum_nbisL2-cds-32747 gene_SEGI_07787 seq_id_chr7 type_cds:0.39844,(Welwitschia_mirabilis_W.mirabilis.10804  locus_Chr08_173249693_173341887_- _translate_table_ standard_:0.793302,Ginkgo_biloba_Gb_33302 _translate_table_ standard_:1.10405)n2:0.061529)n1:0.384163)n0;

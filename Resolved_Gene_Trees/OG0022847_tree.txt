@@ -1,1 +1,0 @@
-(Ginkgo_biloba_Gb_41094 _translate_table_ standard_:0.126826,(Sequoiadendron_giganteum_nbisL2-cds-1517 gene_SEGI_37216 seq_id_chr10 type_cds:0.525392,(Picea_abies_PICAB_chr10_M00002795494 gene_PICAB_chr10_G00002795488 seq_id_PA_chr10 type_cds:0.116404,Pinus_tabuliformis_PtJG23520.1 gene_PtJG23520 seq_id_chr11 type_cds:0.141336)n2:0.185176)n1:0.126826)n0;

@@ -1,1 +1,0 @@
-(Beta_vulgaris_Bv2_032900_urkh.t1 gene_Bv2_032900_urkh seq_id_Bvchr2.sca003 type_cds:0.683967,(Pinus_tabuliformis_PtXG40560.1 gene_PtXG40560 seq_id_chr10 type_cds:0.005955,(Pinus_tabuliformis_PtXG40400.1 gene_PtXG40400 seq_id_chr10 type_cds:0.109989,Pinus_tabuliformis_PtXG40520.1 gene_PtXG40520 seq_id_chr10 type_cds:0.024679)n2:0.240788)n1:0.683967)n0;

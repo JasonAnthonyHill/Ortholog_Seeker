@@ -1,1 +1,0 @@
-(Taxus_chinensis_rna-gnl|WGS_JAHRHJ|evm2.model.Chr06.3401 gene_gene-KI387_022000 seq_id_CM034151.1 type_cds:0.591261,(Ginkgo_biloba_Gb_07599 _translate_table_ standard_:0.291158,(Ginkgo_biloba_Gb_07623 _translate_table_ standard_:0.154333,Ginkgo_biloba_Gb_07622 _translate_table_ standard_:0.004063)n2:0.206359)n1:0.591261)n0;

@@ -1,1 +1,0 @@
-(Camellia_sinensis_rna-gnl|WGS_SDRB|TEA021317.1 gene_gene-TEA_018922 seq_id_SDRB02005397.1 type_cds:0.526246,(Populus_tremula_Poptre_Potra2n19c33797.1:0.807214,(Betula_pendula_Betpen_Bpev01.c0506.g0020.m0001:0.103116,Betula_pendula_Betpen_Bpev01.c0506.g0022.m0001:0.120795)n2:0.653871)n1:0.526246)n0;

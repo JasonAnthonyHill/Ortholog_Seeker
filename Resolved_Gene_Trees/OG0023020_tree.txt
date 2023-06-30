@@ -1,1 +1,0 @@
-(Pinus_tabuliformis_Pt3G41750.1 gene_Pt3G41750 seq_id_chr3 type_cds:0.461409,((Ginkgo_biloba_Gb_22093 _translate_table_ standard_:0.190851,Ginkgo_biloba_Gb_03620 _translate_table_ standard_:0.190171)n2:0.84381,Ginkgo_biloba_Gb_23419 _translate_table_ standard_:0.481966)n1:0.461409)n0;

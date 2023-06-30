@@ -1,1 +1,0 @@
-(Physcomitrella_patens_PAC_32906055 gene_Pp3c17_18320 seq_id_Chr17 type_cds:0.431383,(Welwitschia_mirabilis_W.mirabilis.01207  locus_Chr18_43625810_43708312_+ _translate_table_ standard_:0.678884,(Populus_tremula_Poptre_Potra2n6c14445.1:0.258917,Salix_purpurea_SapurV1A.0175s0250.1.v1.0 gene_SapurV1A.0175s0250.v1.0 seq_id_chr16 type_cds:0.130977)n2:0.546584)n1:0.431383)n0;

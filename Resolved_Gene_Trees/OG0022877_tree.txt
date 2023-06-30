@@ -1,1 +1,0 @@
-(Malus_domestica_evm.model.Backbone_4912.9 gene_evm.model.Backbone_4912.9.g seq_id_Backbone_4912 type_cds:0.343905,((Pinus_tabuliformis_Pt2G17690.1 gene_Pt2G17690 seq_id_chr2 type_cds:0.166302,Pinus_tabuliformis_Pt4G23630.1 gene_Pt4G23630 seq_id_chr4 type_cds:0.070887)n2:0.62378,Ginkgo_biloba_Gb_10074 _translate_table_ standard_:0.94452)n1:0.343905)n0;

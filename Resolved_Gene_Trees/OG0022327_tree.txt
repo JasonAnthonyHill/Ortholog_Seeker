@@ -1,1 +1,0 @@
-((Betula_pendula_Betpen_Bpev01.c0214.g0041.m0001:0.389123,Betula_pendula_Betpen_Bpev01.c0214.g0044.m0001:0.708749)n1:0.258889,(Malus_domestica_evm.model.Backbone_1617.95 gene_evm.model.Backbone_1617.95.g seq_id_Backbone_1617 type_cds:0.38283,Malus_domestica_evm.model.Backbone_1617.97 gene_evm.model.Backbone_1617.97.g seq_id_Backbone_1617 type_cds:0.233673)n2:0.258889)n0;

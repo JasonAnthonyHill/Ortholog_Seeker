@@ -1,1 +1,0 @@
-((Ginkgo_biloba_Gb_34399 _translate_table_ standard_:0.540355,Sequoiadendron_giganteum_nbisL2-cds-17922 gene_SEGI_15518 seq_id_chr9 type_cds:0.548993)n1:0.128772,(Prunus_avium_Prunavi_FUN_002441-T1.p1:0.660414,Malus_domestica_evm.model.Backbone_7874.2 gene_evm.model.Backbone_7874.2.g seq_id_Backbone_7874 type_cds:0.951558)n2:0.128772)n0;

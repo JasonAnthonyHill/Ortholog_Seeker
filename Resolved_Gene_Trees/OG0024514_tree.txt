@@ -1,1 +1,0 @@
-(Picea_abies_PICAB_chr09_M00002568487 gene_PICAB_chr09_G00002568486 seq_id_PA_chr09 type_cds:0.513418,(Sequoiadendron_giganteum_nbisL2-cds-20657 gene_SEGI_17778 seq_id_chr2 type_cds:0.115846,(Sequoiadendron_giganteum_nbisL2-cds-5539 gene_SEGI_33225 seq_id_chr2 type_cds:0,Sequoiadendron_giganteum_nbisL2-cds-6026 gene_SEGI_17870 seq_id_chr2 type_cds:0)n2:0.150858)n1:0.513418)n0;

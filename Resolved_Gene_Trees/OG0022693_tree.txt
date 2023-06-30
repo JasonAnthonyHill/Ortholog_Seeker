@@ -1,1 +1,0 @@
-(Eucalyptus_grandis_Eucgr.I01245.1.v2.0 gene_Eucgr.I01245.v2.0 seq_id_Chr09 type_cds:0.529396,(Ginkgo_biloba_Gb_12698 _translate_table_ standard_:0.3643,(Pinus_tabuliformis_PtQG20040.1 gene_PtQG20040 seq_id_chr12 type_cds:0.737083,Pinus_tabuliformis_Pt9G57680.1 gene_Pt9G57680 seq_id_chr9 type_cds:1.06791)n2:0.118657)n1:0.113782)n0;

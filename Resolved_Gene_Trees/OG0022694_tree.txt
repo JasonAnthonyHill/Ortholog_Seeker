@@ -1,1 +1,0 @@
-(Populus_tremula_Poptre_Potra2n9c19363.1:0.353749,(Eucalyptus_grandis_Eucgr.I01871.1.v2.0 gene_Eucgr.I01871.v2.0 seq_id_Chr09 type_cds:0.619464,(Eucalyptus_grandis_Eucgr.I01866.1.v2.0 gene_Eucgr.I01866.v2.0 seq_id_Chr09 type_cds:2.10584e-06,Eucalyptus_grandis_Eucgr.I01847.1.v2.0 gene_Eucgr.I01847.v2.0 seq_id_Chr09 type_cds:0.347891)n2:0.453894)n1:0.353749)n0;

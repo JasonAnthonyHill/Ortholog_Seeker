@@ -1,1 +1,0 @@
-(Ginkgo_biloba_Gb_38985 _translate_table_ standard_:0.827618,((Betula_pendula_Betpen_Bpev01.c0426.g0009.m0001:0.047822,Betula_pendula_Betpen_Bpev01.c0426.g0009.m0002:0.0176)n2:1.27748,Betula_pendula_Betpen_Bpev01.c0426.g0003.m0001:1.17534)n1:0.827618)n0;

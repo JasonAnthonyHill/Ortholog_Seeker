@@ -1,1 +1,0 @@
-(Zostera_marina_Zosma153g00380.1.v2.2 gene_Zosma153g00380.v2.2 seq_id_scaffold_153 type_cds:0.441045,(Sequoiadendron_giganteum_nbisL2-cds-8044 gene_SEGI_37113 seq_id_chr1 type_cds:0.774988,(Pinus_tabuliformis_PtXG02510.1 gene_PtXG02510 seq_id_chr10 type_cds:0.224978,Pinus_tabuliformis_Pt5G16350.1 gene_Pt5G16350 seq_id_chr5 type_cds:0.071938)n2:0.299653)n1:0.441045)n0;

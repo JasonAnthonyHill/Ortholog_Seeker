@@ -1,1 +1,0 @@
-(Betula_pendula_Betpen_Bpev01.c0833.g0011.m0001:0.638155,(Picea_abies_PICAB_chr09_M00002613375 gene_PICAB_chr09_G00002613360 seq_id_PA_chr09 type_cds:0.058408,(Pinus_tabuliformis_Pt9G49960.1 gene_Pt9G49960 seq_id_chr9 type_cds:0.020488,Pinus_tabuliformis_Pt9G50030.1 gene_Pt9G50030 seq_id_chr9 type_cds:0.037412)n2:0.041054)n1:0.638155)n0;

@@ -1,1 +1,0 @@
-(Cucumis_sativus_Cucsa.091220.1.v1.122 gene_Cucsa.091220.v1 seq_id_scaffold00894 type_cds:0.601012,(Pinus_tabuliformis_PtJG38810.1 gene_PtJG38810 seq_id_chr11 type_cds:0.02642,(Pinus_tabuliformis_Pt3G70610.1 gene_Pt3G70610 seq_id_chr3 type_cds:0.010571,Pinus_tabuliformis_Pt9G38210.1 gene_Pt9G38210 seq_id_chr9 type_cds:1.24326e-06)n2:0.004387)n1:0.601012)n0;

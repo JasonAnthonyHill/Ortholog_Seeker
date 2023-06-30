@@ -1,1 +1,0 @@
-(Medicago_truncatula_Medtr8g069150.1.JCVIMt4.0v1 gene_Medtr8g069150.JCVIMt4.0v1 seq_id_chr8 type_cds:0.173485,((Prunus_avium_Prunavi_FUN_027229-T1.p1:0.007104,Prunus_avium_Prunavi_FUN_027883-T1.p1:0.006359)n2:0.969073,Malus_domestica_evm.model.Backbone_7177.5 gene_evm.model.Backbone_7177.5.g seq_id_Backbone_7177 type_cds:0.141336)n1:0.173485)n0;

@@ -1,1 +1,0 @@
-((Medicago_truncatula_Medtr6g009420.1.JCVIMt4.0v1 gene_Medtr6g009420.JCVIMt4.0v1 seq_id_chr6 type_cds:0.792536,Betula_pendula_Betpen_Bpev01.c0094.g0067.m0001:0.669412)n1:0.385974,(Salix_purpurea_SapurV1A.1048s0040.1.v1.0 gene_SapurV1A.1048s0040.v1.0 seq_id_chr17 type_cds:0.144803,Populus_tremula_Poptre_Potra2n17c31274.1:0.108889)n2:0.385974)n0;

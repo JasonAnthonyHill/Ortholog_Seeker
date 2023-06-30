@@ -1,1 +1,0 @@
-(Camellia_sinensis_rna-gnl|WGS_SDRB|TEA027522.1 gene_gene-TEA_024513 seq_id_SDRB02013126.1 type_cds:0.233823,((Pinus_tabuliformis_Pt3G42030.1 gene_Pt3G42030 seq_id_chr3 type_cds:0.111724,Pinus_tabuliformis_Pt3G41120.1 gene_Pt3G41120 seq_id_chr3 type_cds:0.25756)n2:0.22712,Pinus_tabuliformis_Pt9G41740.1 gene_Pt9G41740 seq_id_chr9 type_cds:0.133352)n1:0.233823)n0;

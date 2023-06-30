@@ -1,1 +1,0 @@
-(Camellia_sinensis_rna-gnl|WGS_SDRB|TEA010403.1 gene_gene-TEA_009273 seq_id_SDRB02009773.1 type_cds:0.507708,((Betula_pendula_Betpen_Bpev01.c0057.g0003.m0001:0.340396,(Betula_pendula_Betpen_Bpev01.c0057.g0005.m0001:0.336233,Betula_pendula_Betpen_Bpev01.c0060.g0003.m0001:0.194482)n3:0.063219)n2:0.111016,Betula_pendula_Betpen_Bpev01.c0060.g0001.m0001:0.746896)n1:0.507708)n0;

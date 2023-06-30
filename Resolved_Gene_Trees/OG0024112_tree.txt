@@ -1,1 +1,0 @@
-(Physcomitrella_patens_PAC_32944553 gene_Pp3c3_32590 seq_id_Chr03 type_cds:0.702964,(Pinus_tabuliformis_Pt7G06590.1 gene_Pt7G06590 seq_id_chr7 type_cds:0.364425,(Pinus_tabuliformis_Pt6G07220.1 gene_Pt6G07220 seq_id_chr6 type_cds:0.200451,Pinus_tabuliformis_PtQG17590.1 gene_PtQG17590 seq_id_chr12 type_cds:0.251624)n2:0.263831)n1:0.702964)n0;

@@ -1,1 +1,0 @@
-((Eucalyptus_grandis_Eucgr.J02475.1.v2.0 gene_Eucgr.J02475.v2.0 seq_id_Chr10 type_cds:0.41902,Eucalyptus_grandis_Eucgr.I02320.1.v2.0 gene_Eucgr.I02320.v2.0 seq_id_Chr09 type_cds:0.801559)n1:0.877434,(Physcomitrella_patens_PAC_32946096 gene_Pp3c20_7580 seq_id_Chr20 type_cds:0.003687,Physcomitrella_patens_PAC_32946987 gene_Pp3c20_7690 seq_id_Chr20 type_cds:0.00397)n2:0.877434)n0;

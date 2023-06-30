@@ -1,1 +1,0 @@
-(Ginkgo_biloba_Gb_08511 _translate_table_ standard_:0.558185,(Pinus_tabuliformis_Pt7G18870.1 gene_Pt7G18870 seq_id_chr7 type_cds:1.48264e-06,(Pinus_tabuliformis_Pt0G35950.1 gene_Pt0G35950 seq_id_tig00024989 type_cds:0.036995,Pinus_tabuliformis_Pt1G25800.1 gene_Pt1G25800 seq_id_chr1 type_cds:0.137595)n2:0.303743)n1:0.558185)n0;

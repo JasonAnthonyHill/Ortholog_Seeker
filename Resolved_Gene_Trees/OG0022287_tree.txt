@@ -1,1 +1,0 @@
-(Malania_oleifera_Maole_023231.T1 gene_Maole_023231 seq_id_scaffold383 type_cds:0.456314,(Malus_domestica_evm.model.Backbone_5532.3 gene_evm.model.Backbone_5532.3.g seq_id_Backbone_5532 type_cds:0.441328,(Populus_tremula_Poptre_Potra2n5c12281.1:0.671815,Betula_pendula_Betpen_Bpev01.c0595.g0001.m0001:0.376791)n2:0.374351)n1:0.456314)n0;

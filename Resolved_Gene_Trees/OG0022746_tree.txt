@@ -1,1 +1,0 @@
-((Picea_abies_PICAB_chr07_M00001907932 gene_PICAB_chr07_G00001907906 seq_id_PA_chr07 type_cds:8.92443e-07,Pinus_tabuliformis_Pt6G30950.1 gene_Pt6G30950 seq_id_chr6 type_cds:0.363216)n1:0.235391,(Ginkgo_biloba_Gb_37473 _translate_table_ standard_:0.028241,Ginkgo_biloba_Gb_13633 _translate_table_ standard_:0.127499)n2:0.235391)n0;

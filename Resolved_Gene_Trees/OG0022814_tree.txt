@@ -1,1 +1,0 @@
-((Populus_tremula_Poptre_Potra2n2c6309.5:0.416281,Pinus_tabuliformis_Pt2G64360.1 gene_Pt2G64360 seq_id_chr2 type_cds:0.509957)n1:0.0037195,(Medicago_truncatula_Medtr8g024030.1.JCVIMt4.0v1 gene_Medtr8g024030.JCVIMt4.0v1 seq_id_chr8 type_cds:1.21331,Ginkgo_biloba_Gb_19032 _translate_table_ standard_:0.304916)n2:0.0037195)n0;

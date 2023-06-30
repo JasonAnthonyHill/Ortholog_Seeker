@@ -1,1 +1,0 @@
-(Camellia_sinensis_rna-gnl|WGS_SDRB|TEA028429.1 gene_gene-TEA_025393 seq_id_SDRB02000140.1 type_cds:0.241891,(Eucalyptus_grandis_Eucgr.G03008.1.v2.0 gene_Eucgr.G03008.v2.0 seq_id_Chr07 type_cds:0.608554,(Betula_pendula_Betpen_Bpev01.c0348.g0011.m0001:0.766602,Prunus_avium_Prunavi_FUN_019034-T1.p1:0.141299)n2:0.409167)n1:0.241891)n0;

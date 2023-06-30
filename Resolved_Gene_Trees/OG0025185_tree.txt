@@ -1,1 +1,0 @@
-(Prunus_avium_Prunavi_FUN_037958-T1.p1:0.453753,(Populus_tremula_Poptre_Potra2n16c29790.1:0.383164,(Salix_purpurea_SapurV1A.1047s0050.1.v1.0 gene_SapurV1A.1047s0050.v1.0 seq_id_Scaffold1047 type_cds:0,Salix_purpurea_SapurV1A.0938s0010.1.v1.0 gene_SapurV1A.0938s0010.v1.0 seq_id_chr16 type_cds:0)n2:0.089141)n1:0.453753)n0;

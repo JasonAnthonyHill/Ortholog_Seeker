@@ -1,1 +1,0 @@
-((Camellia_sinensis_rna-gnl|WGS_SDRB|TEA002281.1 gene_gene-TEA_002052 seq_id_SDRB02009746.1 type_cds:0.581799,Pinus_tabuliformis_Pt1G05950.1 gene_Pt1G05950 seq_id_chr1 type_cds:0.224555)n1:0.0395455,(Ginkgo_biloba_Gb_40239 _translate_table_ standard_:0.81175,Eucalyptus_grandis_Eucgr.D00450.1.v2.0 gene_Eucgr.D00450.v2.0 seq_id_Chr04 type_cds:0.529008)n2:0.0395455)n0;

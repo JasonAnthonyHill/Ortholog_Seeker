@@ -1,1 +1,0 @@
-((Prunus_avium_Prunavi_FUN_016865-T1.p1:0.349276,Populus_tremula_Poptre_Potra2n320s35306.1:0.352332)n1:0.353359,(Nicotiana_tabacum_Nitab4.5_0004625g0030.1 gene_Nitab4.5_0004625g0030 seq_id_Nitab4.5_0004625 type_cds:0.504254,Nicotiana_tabacum_Nitab4.5_0028705g0010.1 gene_Nitab4.5_0028705g0010 seq_id_Nitab4.5_0028705 type_cds:1.69442e-06)n2:0.353359)n0;

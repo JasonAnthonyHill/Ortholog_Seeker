@@ -1,1 +1,0 @@
-(Physcomitrella_patens_PAC_32977741 gene_Pp3c6_10320 seq_id_Chr06 type_cds:0.177522,(Ginkgo_biloba_Gb_19385 _translate_table_ standard_:0.124893,(Taxus_chinensis_rna-gnl|WGS_JAHRHJ|evm2.model.Chr07.975 gene_gene-KI387_023084 seq_id_CM034152.1 type_cds:0.060115,Sequoiadendron_giganteum_nbisL2-cds-10161 gene_SEGI_29920 seq_id_chr3 type_cds:0.211396)n2:0.089589)n1:0.177522)n0;

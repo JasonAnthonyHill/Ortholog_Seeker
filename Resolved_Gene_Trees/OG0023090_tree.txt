@@ -1,1 +1,0 @@
-(Ginkgo_biloba_Gb_31940 _translate_table_ standard_:0.187335,((Picea_abies_PICAB_chr09_M00002475859 gene_PICAB_chr09_G00002475858 seq_id_PA_chr09 type_cds:0.284734,Pinus_tabuliformis_Pt9G31940.1 gene_Pt9G31940 seq_id_chr9 type_cds:0.240551)n2:0.198961,Welwitschia_mirabilis_W.mirabilis.23040  locus_Chr01_482157844_482162135_+ _translate_table_ standard_:0.906336)n1:0.187335)n0;

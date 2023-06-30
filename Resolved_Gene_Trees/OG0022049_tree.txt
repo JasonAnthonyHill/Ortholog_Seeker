@@ -1,1 +1,0 @@
-(Arabidopsis_thaliana_PAC_19669971 gene_AT5G18870 seq_id_Chr5 type_cds:0.301175,(Pinus_tabuliformis_Pt8G15390.1 gene_Pt8G15390 seq_id_chr8 type_cds:0.195813,(Ginkgo_biloba_Gb_14483 _translate_table_ standard_:0.17976,Sequoiadendron_giganteum_nbisL2-cds-3925 gene_SEGI_24775 seq_id_chr11 type_cds:0.312023)n2:0.010982)n1:0.301175)n0;

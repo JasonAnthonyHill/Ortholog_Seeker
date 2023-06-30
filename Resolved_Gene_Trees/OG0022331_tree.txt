@@ -1,1 +1,0 @@
-(Pinus_tabuliformis_Pt6G10240.1 gene_Pt6G10240 seq_id_chr6 type_cds:0.360723,(Cucumis_sativus_Cucsa.206400.1.v1.122 gene_Cucsa.206400.v1 seq_id_scaffold01436 type_cds:0.295229,(Betula_pendula_Betpen_Bpev01.c3731.g0001.m0001:0.233342,Betula_pendula_Betpen_Bpev01.c0120.g0051.m0001:0.35711)n2:0.009265)n1:0.360723)n0;

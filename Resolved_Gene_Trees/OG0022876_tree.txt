@@ -1,1 +1,0 @@
-(Populus_tremula_Poptre_Potra2n1c3776.1:0.601709,(Ginkgo_biloba_Gb_06522 _translate_table_ standard_:0.603058,(Pinus_tabuliformis_PtJG02460.2 gene_PtJG02460 seq_id_chr11 type_cds:0.04302,Pinus_tabuliformis_PtXG05230.1 gene_PtXG05230 seq_id_chr10 type_cds:0.207192)n2:0.486374)n1:0.601709)n0;

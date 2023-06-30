@@ -1,1 +1,0 @@
-(Zostera_marina_Zosma16g01050.1.v2.2 gene_Zosma16g01050.v2.2 seq_id_scaffold_16 type_cds:0.195508,(Betula_pendula_Betpen_Bpev01.c0620.g0003.m0001:0.618398,(Betula_pendula_Betpen_Bpev01.c0620.g0002.m0001:0.529695,Betula_pendula_Betpen_Bpev01.c2368.g0006.m0001:0.390254)n2:0.382722)n1:0.195508)n0;

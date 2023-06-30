@@ -1,1 +1,0 @@
-(Physcomitrella_patens_PAC_32955108 gene_Pp3c5_2390 seq_id_Chr05 type_cds:0.707087,(Ginkgo_biloba_Gb_15742 _translate_table_ standard_:0.402981,(Populus_tremula_Poptre_Potra2n360s35407.1:0.237169,Populus_tremula_Poptre_Potra2n5c12107.2:0.031054)n2:0.249088)n1:0.707087)n0;

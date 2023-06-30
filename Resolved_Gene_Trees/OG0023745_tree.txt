@@ -1,1 +1,0 @@
-(Populus_tremula_Poptre_Potra2n9c18752.1:0.219031,(Prunus_avium_Prunavi_FUN_020208-T1.p1:0.842521,(Medicago_truncatula_Medtr5g087290.1.JCVIMt4.0v1 gene_Medtr5g087290.JCVIMt4.0v1 seq_id_chr5 type_cds:0.139368,Medicago_truncatula_Medtr5g086975.1.JCVIMt4.0v1 gene_Medtr5g086975.JCVIMt4.0v1 seq_id_chr5 type_cds:0.704237)n2:0.878405)n1:0.219031)n0;

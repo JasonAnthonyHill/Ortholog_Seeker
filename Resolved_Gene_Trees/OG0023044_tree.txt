@@ -1,1 +1,0 @@
-(Zostera_marina_Zosma49g00560.1.v2.2 gene_Zosma49g00560.v2.2 seq_id_scaffold_49 type_cds:0.333579,(Ginkgo_biloba_Gb_25512 _translate_table_ standard_:0.522218,(Pinus_tabuliformis_Pt1G75180.1 gene_Pt1G75180 seq_id_chr1 type_cds:0.18921,Pinus_tabuliformis_PtXG37590.1 gene_PtXG37590 seq_id_chr10 type_cds:0.448661)n2:0.046297)n1:0.333579)n0;

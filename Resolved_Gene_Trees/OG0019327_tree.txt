@@ -1,1 +1,0 @@
-(Sequoiadendron_giganteum_nbisL2-cds-20209 gene_SEGI_19953 seq_id_chr8 type_cds:0.520613,(Prunus_avium_Prunavi_FUN_035505-T1.p1:0.942126,(Prunus_avium_Prunavi_FUN_035207-T1.p1:0.068242,((Prunus_avium_Prunavi_FUN_012190-T1.p1:0.092203,Prunus_avium_Prunavi_FUN_036002-T1.p1:0.178163)n4:0.615353,Prunus_avium_Prunavi_FUN_010014-T1.p1:0.74195)n3:0.128571)n2:0.043055)n1:0.520613)n0;

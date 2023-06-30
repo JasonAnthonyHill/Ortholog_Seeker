@@ -1,1 +1,0 @@
-(Medicago_truncatula_Medtr2g104220.1.JCVIMt4.0v1 gene_Medtr2g104220.JCVIMt4.0v1 seq_id_chr2 type_cds:0.41354,(Malus_domestica_evm.model.Backbone_2196.4 gene_evm.model.Backbone_2196.4.g seq_id_Backbone_2196 type_cds:0.579596,(Betula_pendula_Betpen_Bpev01.c1026.g0001.m0001:0.162893,Betula_pendula_Betpen_Bpev01.c2635.g0003.m0001:0.16386)n2:0.348338)n1:0.41354)n0;

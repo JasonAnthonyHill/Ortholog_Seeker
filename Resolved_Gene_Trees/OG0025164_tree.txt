@@ -1,1 +1,0 @@
-(Populus_tremula_Poptre_Potra2n13c25038.1:0.646866,((Sequoiadendron_giganteum_nbisL2-cds-29084 gene_SEGI_00455 seq_id_chr5 type_cds:0.234782,Sequoiadendron_giganteum_nbisL2-cds-36066 gene_SEGI_08603 seq_id_chr4 type_cds:0.339875)n2:0.022791,Sequoiadendron_giganteum_nbisL2-cds-32158 gene_SEGI_00465 seq_id_chr5 type_cds:0.216608)n1:0.646866)n0;

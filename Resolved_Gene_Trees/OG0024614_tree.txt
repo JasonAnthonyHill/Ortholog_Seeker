@@ -1,1 +1,0 @@
-(Vitis_vinifera_GSVIVT01007478001.Genoscope12X gene_GSVIVG01007478001.Genoscope12X seq_id_chrUn type_cds:0.27789,(Pinus_tabuliformis_Pt3G43490.1 gene_Pt3G43490 seq_id_chr3 type_cds:0.093744,(Pinus_tabuliformis_Pt3G68620.1 gene_Pt3G68620 seq_id_chr3 type_cds:0.069963,Pinus_tabuliformis_Pt1G05570.1 gene_Pt1G05570 seq_id_chr1 type_cds:0.196043)n2:0.078054)n1:0.27789)n0;

@@ -1,1 +1,0 @@
-(Arabidopsis_thaliana_PAC_19642629 gene_AT2G02490 seq_id_Chr2 type_cds:0.242788,((Arabidopsis_thaliana_PAC_19642110 gene_AT2G19802 seq_id_Chr2 type_cds:0.675591,Arabidopsis_thaliana_PAC_19642386 gene_AT2G02515 seq_id_Chr2 type_cds:0.62776)n2:0.128855,Arabidopsis_thaliana_PAC_19642139 gene_AT2G02498 seq_id_Chr2 type_cds:0.388933)n1:0.242788)n0;

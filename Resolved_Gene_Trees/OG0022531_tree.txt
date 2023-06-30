@@ -1,1 +1,0 @@
-(Cinnamomum_kanehirae_rna-gnl|WGS_QPKB|mrna.CKAN_00976800 gene_gene-CKAN_00976800 seq_id_QPKB01000003.1 type_cds:0.562349,(Malus_domestica_evm.model.Backbone_804.12 gene_evm.model.Backbone_804.12.g seq_id_Backbone_804 type_cds:0.270957,(Prunus_avium_Prunavi_FUN_036053-T1.p1:0.89838,Prunus_avium_Prunavi_FUN_010474-T1.p1:0.449409)n2:0.0499343)n1:0.408387)n0;

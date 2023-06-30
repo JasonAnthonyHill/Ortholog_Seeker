@@ -1,1 +1,0 @@
-(Betula_pendula_Betpen_Bpev01.c5371.g0001.m0001:0.72469,(Physcomitrella_patens_PAC_32948476 gene_Pp3s30_1197 seq_id_scaffold_30 type_cds:2.64885e-06,(Physcomitrella_patens_PAC_32948531 gene_Pp3s30_1050 seq_id_scaffold_30 type_cds:0.208159,Physcomitrella_patens_PAC_32948353 gene_Pp3s32_370 seq_id_scaffold_32 type_cds:0.634432)n2:0.584575)n1:0.72469)n0;

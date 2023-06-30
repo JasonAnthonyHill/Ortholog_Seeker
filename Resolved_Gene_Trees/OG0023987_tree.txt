@@ -1,1 +1,0 @@
-(Nicotiana_tabacum_Nitab4.5_0001573g0050.1 gene_Nitab4.5_0001573g0050 seq_id_Nitab4.5_0001573 type_cds:0.319929,((Pinus_tabuliformis_PtQG32990.1 gene_PtQG32990 seq_id_chr12 type_cds:0.12308,Pinus_tabuliformis_Pt5G14910.1 gene_Pt5G14910 seq_id_chr5 type_cds:0.256734)n2:0.383083,Pinus_tabuliformis_Pt9G31180.1 gene_Pt9G31180 seq_id_chr9 type_cds:1.19838e-06)n1:0.319929)n0;

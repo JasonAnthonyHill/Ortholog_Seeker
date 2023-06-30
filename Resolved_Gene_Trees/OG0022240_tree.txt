@@ -1,1 +1,0 @@
-(Betula_pendula_Betpen_Bpev01.c1475.g0002.m0001:0.758822,((Sequoiadendron_giganteum_nbisL2-cds-14314 gene_SEGI_17577 seq_id_chr3 type_cds:0,Sequoiadendron_giganteum_nbisL2-cds-15393 gene_SEGI_14637 seq_id_chr3 type_cds:0)n2:0.485002,Sequoiadendron_giganteum_nbisL2-cds-11269 gene_SEGI_20101 seq_id_chr2 type_cds:0.177629)n1:0.758822)n0;

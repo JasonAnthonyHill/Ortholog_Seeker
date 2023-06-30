@@ -1,1 +1,0 @@
-(Betula_pendula_Betpen_Bpev01.c0710.g0004.m0001:0.378873,(Sequoiadendron_giganteum_nbisL2-cds-21608 gene_SEGI_15603 seq_id_chr8 type_cds:0.275459,(Pinus_tabuliformis_Pt8G01930.1 gene_Pt8G01930 seq_id_chr8 type_cds:0.185979,Pinus_tabuliformis_PtJG06750.1 gene_PtJG06750 seq_id_chr11 type_cds:0.318322)n2:0.440058)n1:0.378873)n0;

@@ -1,1 +1,0 @@
-(Betula_pendula_Betpen_Bpev01.c1418.g0001.m0001:0.26679,(Pinus_tabuliformis_PtJG52790.1 gene_PtJG52790 seq_id_chr11 type_cds:0.772926,(Welwitschia_mirabilis_W.mirabilis.24150  locus_Chr12_13421722_13422150_- _translate_table_ standard_:0,Welwitschia_mirabilis_W.mirabilis.24149  locus_Chr12_13422743_13423171_- _translate_table_ standard_:0)n2:0.997922)n1:0.26679)n0;

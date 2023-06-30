@@ -1,1 +1,0 @@
-((Betula_pendula_Betpen_Bpev01.c2365.g0001.m0001:0.650229,(Betula_pendula_Betpen_Bpev01.c4062.g0001.m0001:0.306194,Betula_pendula_Betpen_Bpev01.c0274.g0025.m0001:0.504349)n2:0.043861)n1:0.384387,(Prunus_avium_Prunavi_FUN_008285-T1.p2:0.045175,Prunus_avium_Prunavi_FUN_030209-T1.p3:0.090758)n3:0.384387)n0;

@@ -1,1 +1,0 @@
-((Malus_domestica_evm.model.Backbone_368.5 gene_evm.model.Backbone_368.5.g seq_id_Backbone_368 type_cds:0.446147,Malus_domestica_evm.model.Backbone_393.60 gene_evm.model.Backbone_393.60.g seq_id_Backbone_393 type_cds:0.958894)n1:0.153938,(Ginkgo_biloba_Gb_13201 _translate_table_ standard_:0.194003,Ginkgo_biloba_Gb_33007 _translate_table_ standard_:0.348384)n2:0.153938)n0;

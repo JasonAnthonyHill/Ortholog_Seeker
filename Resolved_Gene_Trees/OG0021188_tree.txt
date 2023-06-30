@@ -1,1 +1,0 @@
-(Picea_abies_PICAB_chr07_M00001995125 gene_PICAB_chr07_G00001995124 seq_id_PA_chr07 type_cds:0.505652,(((Prunus_avium_Prunavi_FUN_038994-T1.p1:0.617455,Prunus_avium_Prunavi_FUN_038970-T1.p1:0.016901)n3:0.460132,Prunus_avium_Prunavi_FUN_038974-T1.p1:0.266853)n2:0.083238,Prunus_avium_Prunavi_FUN_038993-T1.p1:0.156772)n1:0.505652)n0;

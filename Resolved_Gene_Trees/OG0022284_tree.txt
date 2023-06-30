@@ -1,1 +1,0 @@
-((Medicago_truncatula_Medtr0666s0020.1.JCVIMt4.0v1 gene_Medtr0666s0020.JCVIMt4.0v1 seq_id_scaffold0666 type_cds:1.67014,Betula_pendula_Betpen_Bpev01.c5186.g0001.m0001:1.45787)n1:0.352959,(Betula_pendula_Betpen_Bpev01.c5328.g0002.m0001:1.28237,Medicago_truncatula_Medtr0787s0010.1.JCVIMt4.0v1 gene_Medtr0787s0010.JCVIMt4.0v1 seq_id_scaffold0787 type_cds:1.15995)n2:0.352959)n0;

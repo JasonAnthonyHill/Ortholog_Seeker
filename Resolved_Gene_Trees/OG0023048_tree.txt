@@ -1,1 +1,0 @@
-((Medicago_truncatula_Medtr4g051093.1.JCVIMt4.0v1 gene_Medtr4g051093.JCVIMt4.0v1 seq_id_chr4 type_cds:0.796997,Populus_tremula_Poptre_Potra2n10c22176.1:0.494511)n1:0.240256,(Ginkgo_biloba_Gb_10916 _translate_table_ standard_:0.089024,Ginkgo_biloba_Gb_13971 _translate_table_ standard_:0.507468)n2:0.240256)n0;

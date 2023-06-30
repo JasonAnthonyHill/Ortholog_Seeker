@@ -1,1 +1,0 @@
-(Beta_vulgaris_Bv9_216400_imac.t1 gene_Bv9_216400_imac seq_id_Bvchr9.sca026 type_cds:0.501525,((Medicago_truncatula_Medtr3g117560.1.JCVIMt4.0v1 gene_Medtr3g117560.JCVIMt4.0v1 seq_id_chr3 type_cds:0.742564,Betula_pendula_Betpen_Bpev01.c1136.g0007.m0001:0.648908)n2:0.021964,Populus_tremula_Poptre_Potra2n858s36841.1:0.777878)n1:0.501525)n0;

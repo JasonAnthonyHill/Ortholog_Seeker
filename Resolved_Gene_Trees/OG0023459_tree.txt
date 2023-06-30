@@ -1,1 +1,0 @@
-(Mimulus_guttatus_Migut.J00703.1.v2.0 gene_Migut.J00703.v2.0 seq_id_scaffold_10 type_cds:0.387503,(Malus_domestica_evm.model.Backbone_2190.20 gene_evm.model.Backbone_2190.20.g seq_id_Backbone_2190 type_cds:0.546799,(Prunus_avium_Prunavi_FUN_008526-T1.p1:0.601234,Prunus_avium_Prunavi_FUN_000974-T1.p1:0.286151)n2:0.0317946)n1:0.122302)n0;

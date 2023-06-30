@@ -1,1 +1,0 @@
-(Salix_purpurea_SapurV1A.0386s0050.1.v1.0 gene_SapurV1A.0386s0050.v1.0 seq_id_chr05 type_cds:0.296354,(Betula_pendula_Betpen_Bpev01.c2303.g0001.m0001:0.267323,(Betula_pendula_Betpen_Bpev01.c2214.g0003.m0001:0.141267,Betula_pendula_Betpen_Bpev01.c0177.g0033.m0001:0.234723)n2:0.522419)n1:0.296354)n0;

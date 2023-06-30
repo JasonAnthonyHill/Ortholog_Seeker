@@ -1,1 +1,0 @@
-(Pinus_tabuliformis_Pt3G70660.1 gene_Pt3G70660 seq_id_chr3 type_cds:0.607944,(Prunus_avium_Prunavi_FUN_002975-T1.p1:0.04246,(Prunus_avium_Prunavi_FUN_003013-T1.p1:0.007474,(Prunus_avium_Prunavi_FUN_003500-T1.p1:0.001024,Prunus_avium_Prunavi_FUN_037498-T1.p1:0.054207)n3:0.049077)n2:0.412236)n1:0.607944)n0;

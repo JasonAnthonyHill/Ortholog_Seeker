@@ -1,1 +1,0 @@
-((Salix_purpurea_SapurV1A.0162s0440.1.v1.0 gene_SapurV1A.0162s0440.v1.0 seq_id_chr14 type_cds:0.522097,Populus_tremula_Poptre_Potra2n14c27202.1:0.090496)n1:0.418406,(Salix_purpurea_SapurV1A.0003s0320.1.v1.0 gene_SapurV1A.0003s0320.v1.0 seq_id_chr02 type_cds:0.355003,Populus_tremula_Poptre_Potra2n2c4761.1:0.43264)n2:0.418406)n0;

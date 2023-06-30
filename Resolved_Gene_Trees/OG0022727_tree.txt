@@ -1,1 +1,0 @@
-(Ginkgo_biloba_Gb_16410 _translate_table_ standard_:0.12174,(Taxus_chinensis_rna-gnl|WGS_JAHRHJ|evm2.model.Chr11.2173 gene_gene-KI387_037289 seq_id_CM034156.1 type_cds:0.309481,(Picea_abies_PICAB_chr03_M00000656481 gene_PICAB_chr03_G00000656480 seq_id_PA_chr03 type_cds:0.063365,Pinus_tabuliformis_Pt5G60260.1 gene_Pt5G60260 seq_id_chr5 type_cds:0.054522)n2:0.188898)n1:0.12174)n0;

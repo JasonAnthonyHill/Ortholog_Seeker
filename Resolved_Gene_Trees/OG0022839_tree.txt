@@ -1,1 +1,0 @@
-(Malania_oleifera_Maole_013391.T1 gene_Maole_013391 seq_id_scaffold327 type_cds:0.535143,(Ginkgo_biloba_Gb_21320 _translate_table_ standard_:0.180391,(Ginkgo_biloba_Gb_12713 _translate_table_ standard_:0.073429,Ginkgo_biloba_Gb_01157 _translate_table_ standard_:0.380886)n2:0.044998)n1:0.535143)n0;

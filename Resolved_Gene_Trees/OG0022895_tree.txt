@@ -1,1 +1,0 @@
-((Ginkgo_biloba_Gb_04511 _translate_table_ standard_:0.82276,Ginkgo_biloba_Gb_26218 _translate_table_ standard_:1.07198)n1:0.019211,(Physcomitrella_patens_PAC_32980013 gene_Pp3c25_8070 seq_id_Chr25 type_cds:0.890318,Physcomitrella_patens_PAC_32977335 gene_Pp3c6_17460 seq_id_Chr06 type_cds:0.607173)n2:0.019211)n0;

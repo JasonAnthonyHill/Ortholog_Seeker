@@ -1,1 +1,0 @@
-((Pinus_tabuliformis_Pt2G11320.1 gene_Pt2G11320 seq_id_chr2 type_cds:0.400178,Salix_purpurea_SapurV1A.0020s0320.1.v1.0 gene_SapurV1A.0020s0320.v1.0 seq_id_chr16 type_cds:0.413614)n1:0.034022,(Nicotiana_tabacum_Nitab4.5_0002950g0040.1 gene_Nitab4.5_0002950g0040 seq_id_Nitab4.5_0002950 type_cds:0.515888,Ginkgo_biloba_Gb_09606 _translate_table_ standard_:0.231192)n2:0.034022)n0;

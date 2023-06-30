@@ -1,1 +1,0 @@
-((Ginkgo_biloba_Gb_08068 _translate_table_ standard_:0.191298,Ginkgo_biloba_Gb_39079 _translate_table_ standard_:0.640032)n1:0.518085,(Welwitschia_mirabilis_W.mirabilis.17421  locus_Chr17_36637705_36638816_+ _translate_table_ standard_:0.214373,Welwitschia_mirabilis_W.mirabilis.17422  locus_Chr17_36632823_36637572_+ _translate_table_ standard_:0.125403)n2:0.518085)n0;

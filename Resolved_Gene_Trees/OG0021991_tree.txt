@@ -1,1 +1,0 @@
-(Pinus_tabuliformis_Pt4G01060.1 gene_Pt4G01060 seq_id_chr4 type_cds:0.117514,(Betula_pendula_Betpen_Bpev01.c0016.g0161.m0001:0.404118,(Arabidopsis_thaliana_PAC_19651060 gene_AT1G58450 seq_id_Chr1 type_cds:0.543903,Malania_oleifera_Maole_018320.T1 gene_Maole_018320 seq_id_scaffold130 type_cds:0.606044)n2:0.18923)n1:0.117514)n0;

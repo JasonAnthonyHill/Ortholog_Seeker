@@ -1,1 +1,0 @@
-(Ginkgo_biloba_Gb_01009 _translate_table_ standard_:0.670212,((Prunus_avium_Prunavi_FUN_011086-T1.p1:0.147234,Prunus_avium_Prunavi_FUN_021121-T1.p1:2.69713e-06)n2:0.64761,Prunus_avium_Prunavi_FUN_011022-T1.p1:0.5759)n1:0.670212)n0;

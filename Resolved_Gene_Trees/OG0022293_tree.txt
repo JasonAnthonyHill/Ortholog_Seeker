@@ -1,1 +1,0 @@
-(Zostera_marina_Zosma107g00780.1.v2.2 gene_Zosma107g00780.v2.2 seq_id_scaffold_107 type_cds:0.224008,(Betula_pendula_Betpen_Bpev01.c0438.g0001.m0001:0.239477,(Prunus_avium_Prunavi_FUN_026506-T1.p1:0.219462,Malus_domestica_evm.model.Backbone_990.36 gene_evm.model.Backbone_990.36.g seq_id_Backbone_990 type_cds:0.301439)n2:0.122179)n1:0.224008)n0;

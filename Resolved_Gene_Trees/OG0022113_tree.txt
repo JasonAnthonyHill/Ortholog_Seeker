@@ -1,1 +1,0 @@
-(Beta_vulgaris_Bv4_082870_mhjw.t1 gene_Bv4_082870_mhjw seq_id_Bvchr4.sca006 type_cds:0,(Beta_vulgaris_Bv4_082850_eyyg.t1 gene_Bv4_082850_eyyg seq_id_Bvchr4.sca006 type_cds:0,(Beta_vulgaris_Bv4_082860_sgap.t1 gene_Bv4_082860_sgap seq_id_Bvchr4.sca006 type_cds:0,Beta_vulgaris_Bv4_082840_ryuz.t1 gene_Bv4_082840_ryuz seq_id_Bvchr4.sca006 type_cds:0)n2:0)n1:0)n0;

@@ -1,1 +1,0 @@
-((Beta_vulgaris_Bv9_216580_gizk.t2 gene_Bv9_216580_gizk seq_id_Bvchr9.sca026 type_cds:1.27934,Betula_pendula_Betpen_Bpev01.c0243.g0048.m0001:0.398802)n1:0.158867,(Pinus_tabuliformis_Pt1G01160.1 gene_Pt1G01160 seq_id_chr1 type_cds:0.049674,Pinus_tabuliformis_PtXG19000.1 gene_PtXG19000 seq_id_chr10 type_cds:0.012098)n2:0.158867)n0;

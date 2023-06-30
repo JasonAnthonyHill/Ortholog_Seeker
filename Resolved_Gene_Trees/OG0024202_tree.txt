@@ -1,1 +1,0 @@
-(Physcomitrella_patens_PAC_32908144 gene_Pp3c17_11030 seq_id_Chr17 type_cds:0.206043,(Sequoiadendron_giganteum_nbisL2-cds-6294 gene_SEGI_20801 seq_id_chr3 type_cds:0.169939,(Picea_abies_PICAB_chr02_M00000356526 gene_PICAB_chr02_G00000356525 seq_id_PA_chr02 type_cds:0.241523,Pinus_tabuliformis_Pt3G71350.1 gene_Pt3G71350 seq_id_chr3 type_cds:0.090924)n2:0.043092)n1:0.206043)n0;

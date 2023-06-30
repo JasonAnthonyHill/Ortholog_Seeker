@@ -1,1 +1,0 @@
-((Pinus_tabuliformis_Pt1G04320.1 gene_Pt1G04320 seq_id_chr1 type_cds:1.40145,Ginkgo_biloba_Gb_34795 _translate_table_ standard_:0.566258)n1:0.467278,(Malania_oleifera_Maole_020380.T1 gene_Maole_020380 seq_id_scaffold355 type_cds:0.575578,Malania_oleifera_Maole_020383.T1 gene_Maole_020383 seq_id_scaffold355 type_cds:0.539449)n2:0.467278)n0;

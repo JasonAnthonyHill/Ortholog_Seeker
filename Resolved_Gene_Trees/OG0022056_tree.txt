@@ -1,1 +1,0 @@
-(Beta_vulgaris_Bv3_048620_odzi.t1 gene_Bv3_048620_odzi seq_id_Bvchr3.sca001 type_cds:0.218839,(Betula_pendula_Betpen_Bpev01.c0215.g0043.m0001:0.412175,(Malus_domestica_evm.model.Backbone_4864.1 gene_evm.model.Backbone_4864.1.g seq_id_Backbone_4864 type_cds:0.291974,Prunus_avium_Prunavi_FUN_000478-T1.p1:0.099777)n2:0.047594)n1:0.218839)n0;

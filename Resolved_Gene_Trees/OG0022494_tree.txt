@@ -1,1 +1,0 @@
-((Camellia_sinensis_rna-gnl|WGS_SDRB|TEA017641.1 gene_gene-TEA_015775 seq_id_SDRB02006244.1 type_cds:0.854421,(Ginkgo_biloba_Gb_03661 _translate_table_ standard_:0.313936,Ginkgo_biloba_Gb_27646 _translate_table_ standard_:0.357247)n2:0.0396941)n1:0.0262245,Malus_domestica_evm.model.Backbone_554.1 gene_evm.model.Backbone_554.1.g seq_id_Backbone_554 type_cds:0.563272)n0;

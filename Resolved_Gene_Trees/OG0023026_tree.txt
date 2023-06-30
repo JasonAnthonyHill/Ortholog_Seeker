@@ -1,1 +1,0 @@
-((Physcomitrella_patens_PAC_32915281 gene_Pp3c21_9830 seq_id_Chr21 type_cds:0.156521,Physcomitrella_patens_PAC_32903320 gene_Pp3c22_1930 seq_id_Chr22 type_cds:0.276112)n1:0.181288,(Ginkgo_biloba_Gb_35260 _translate_table_ standard_:0.587519,Picea_abies_PICAB_chr12_M00003308117 gene_PICAB_chr12_G00003307974 seq_id_PA_chr12 type_cds:0.206225)n2:0.181288)n0;

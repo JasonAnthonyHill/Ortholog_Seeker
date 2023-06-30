@@ -1,1 +1,0 @@
-(Populus_tremula_Poptre_Potra2n16c29355.1:0.364316,(Populus_tremula_Poptre_Potra2n16c29353.1:1.82768e-06,((Populus_tremula_Poptre_Potra2n14c26519.1:0.310789,Populus_tremula_Poptre_Potra2n6c15302.1:0.193937)n3:0.11466,Populus_tremula_Poptre_Potra2n16c29356.1:0.198994)n2:0.387605)n1:0.364316)n0;

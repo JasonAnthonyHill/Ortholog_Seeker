@@ -1,1 +1,0 @@
-((Nicotiana_tabacum_Nitab4.5_0002113g0170.1 gene_Nitab4.5_0002113g0170 seq_id_Nitab4.5_0002113 type_cds:0.223748,Betula_pendula_Betpen_Bpev01.c5487.g0001.m0001:0.907228)n1:0.0873695,(Pinus_tabuliformis_Pt8G63010.1 gene_Pt8G63010 seq_id_chr8 type_cds:0.042464,Pinus_tabuliformis_Pt7G52470.1 gene_Pt7G52470 seq_id_chr7 type_cds:0.16534)n2:0.0873695)n0;

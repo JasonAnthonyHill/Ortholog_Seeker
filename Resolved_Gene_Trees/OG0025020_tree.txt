@@ -1,1 +1,0 @@
-(Prunus_avium_Prunavi_FUN_030356-T1.p1:0.485972,(Welwitschia_mirabilis_W.mirabilis.16544  locus_Chr11_182463204_182463638_+ _translate_table_ standard_:0.85003,(Pinus_tabuliformis_Pt6G16910.1 gene_Pt6G16910 seq_id_chr6 type_cds:0.258661,Pinus_tabuliformis_PtQG06470.1 gene_PtQG06470 seq_id_chr12 type_cds:0.116679)n2:0.0129643)n1:0.091082)n0;

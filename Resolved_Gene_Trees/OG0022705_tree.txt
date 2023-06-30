@@ -1,1 +1,0 @@
-((Eucalyptus_grandis_Eucgr.L01520.1.v2.0 gene_Eucgr.L01520.v2.0 seq_id_scaffold_235 type_cds:0.910833,Mimulus_guttatus_Migut.A00966.1.v2.0 gene_Migut.A00966.v2.0 seq_id_scaffold_1 type_cds:0.570806)n1:0.0889785,(Sequoiadendron_giganteum_nbisL2-cds-32113 gene_SEGI_01059 seq_id_chr1 type_cds:0.693677,Ginkgo_biloba_Gb_13165 _translate_table_ standard_:0.410836)n2:0.0889785)n0;

@@ -1,1 +1,0 @@
-((Medicago_truncatula_Medtr7g056267.1.JCVIMt4.0v1 gene_Medtr7g056267.JCVIMt4.0v1 seq_id_chr7 type_cds:0.518658,Betula_pendula_Betpen_Bpev01.c0000.g0190.m0001:0.772704)n1:0.277545,(Pinus_tabuliformis_Pt1G41540.1 gene_Pt1G41540 seq_id_chr1 type_cds:0.033351,Pinus_tabuliformis_Pt0G20640.3 gene_Pt0G20640 seq_id_tig00016332 type_cds:0.162999)n2:0.277545)n0;

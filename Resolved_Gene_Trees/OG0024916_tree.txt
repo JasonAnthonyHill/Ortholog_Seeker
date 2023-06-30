@@ -1,1 +1,0 @@
-(Pinus_tabuliformis_Pt4G05290.1 gene_Pt4G05290 seq_id_chr4 type_cds:0.006798,(Pinus_tabuliformis_Pt4G02520.1 gene_Pt4G02520 seq_id_chr4 type_cds:0.192396,(Pinus_tabuliformis_PtJG11060.1 gene_PtJG11060 seq_id_chr11 type_cds:0.661185,Pinus_tabuliformis_Pt4G55290.1 gene_Pt4G55290 seq_id_chr4 type_cds:0.051626)n2:0.079472)n1:0.006798)n0;

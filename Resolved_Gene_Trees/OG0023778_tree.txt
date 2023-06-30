@@ -1,1 +1,0 @@
-(Sequoiadendron_giganteum_nbisL2-cds-25379 gene_SEGI_28791 seq_id_chr9 type_cds:0.44142,(Medicago_truncatula_Medtr7g092840.1.JCVIMt4.0v1 gene_Medtr7g092840.JCVIMt4.0v1 seq_id_chr7 type_cds:0.369295,(Salix_purpurea_SapurV1A.0262s0130.1.v1.0 gene_SapurV1A.0262s0130.v1.0 seq_id_chr10 type_cds:0.223971,Populus_tremula_Poptre_Potra2n8c17193.1:0.647779)n2:0.45894)n1:0.44142)n0;

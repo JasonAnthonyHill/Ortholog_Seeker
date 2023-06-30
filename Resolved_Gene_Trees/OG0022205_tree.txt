@@ -1,1 +1,0 @@
-((Beta_vulgaris_Bv_036151z5406.t1 gene_Bv_036151z5406 seq_id_contig134130 type_cds:1.13759,Malus_domestica_evm.model.Backbone_2032.4 gene_evm.model.Backbone_2032.4.g seq_id_Backbone_2032 type_cds:0.112859)n1:0.125762,(Ginkgo_biloba_Gb_01083 _translate_table_ standard_:0.652671,Sequoiadendron_giganteum_nbisL2-cds-27210 gene_SEGI_14123 seq_id_chr2 type_cds:0.475529)n2:0.125762)n0;

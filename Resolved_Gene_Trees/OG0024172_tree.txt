@@ -1,1 +1,0 @@
-(Physcomitrella_patens_PAC_32965008 gene_Pp3c8_23708 seq_id_Chr08 type_cds:0.038478,((Physcomitrella_patens_PAC_32966262 gene_Pp3c8_22969 seq_id_Chr08 type_cds:0.03174,Physcomitrella_patens_PAC_32966159 gene_Pp3c8_23614 seq_id_Chr08 type_cds:0.023577)n2:0.032888,Physcomitrella_patens_PAC_32966079 gene_Pp3c8_23749 seq_id_Chr08 type_cds:1.65111e-07)n1:0.038478)n0;

@@ -1,1 +1,0 @@
-(Mimulus_guttatus_Migut.D00278.1.v2.0 gene_Migut.D00278.v2.0 seq_id_scaffold_4 type_cds:0.761769,(Pinus_tabuliformis_Pt0G32320.1 gene_Pt0G32320 seq_id_tig00284517 type_cds:0.047329,(Pinus_tabuliformis_Pt2G66740.1 gene_Pt2G66740 seq_id_chr2 type_cds:0.034106,Pinus_tabuliformis_Pt1G17380.1 gene_Pt1G17380 seq_id_chr1 type_cds:0.089646)n2:0.02211)n1:0.761769)n0;

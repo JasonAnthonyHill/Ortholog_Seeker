@@ -1,1 +1,0 @@
-(Ginkgo_biloba_Gb_06335 _translate_table_ standard_:0.136874,(Welwitschia_mirabilis_W.mirabilis.22416  locus_Chr03_328130726_328131306_+ _translate_table_ standard_:0.583742,(Pinus_tabuliformis_PtJG10030.1 gene_PtJG10030 seq_id_chr11 type_cds:0.316281,Pinus_tabuliformis_Pt2G30430.1 gene_Pt2G30430 seq_id_chr2 type_cds:0.320975)n2:0.0356639)n1:0.303237)n0;

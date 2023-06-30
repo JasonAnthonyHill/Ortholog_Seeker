@@ -1,1 +1,0 @@
-((Prunus_avium_Prunavi_FUN_012231-T1.p1:0.326196,Betula_pendula_Betpen_Bpev01.c0879.g0011.m0001:0.343793)n1:0.180105,((Pinus_tabuliformis_Pt9G59440.2 gene_Pt9G59440 seq_id_chr9 type_cds:0.934813,Pinus_tabuliformis_Pt9G59560.1 gene_Pt9G59560 seq_id_chr9 type_cds:1.19706)n3:0.140783,Pinus_tabuliformis_Pt9G50810.6 gene_Pt9G50810 seq_id_chr9 type_cds:0.790512)n2:0.180105)n0;

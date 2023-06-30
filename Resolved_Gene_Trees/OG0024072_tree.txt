@@ -1,1 +1,0 @@
-(Physcomitrella_patens_PAC_32934557 gene_Pp3c2_5130 seq_id_Chr02 type_cds:0.73766,(Sequoiadendron_giganteum_nbisL2-cds-27071 gene_SEGI_35406 seq_id_chr5 type_cds:0.379426,(Sequoiadendron_giganteum_nbisL2-cds-35163 gene_SEGI_00924 seq_id_chr5 type_cds:0.038968,Sequoiadendron_giganteum_nbisL2-cds-15976 gene_SEGI_34055 seq_id_chr5 type_cds:0.080789)n2:0.507668)n1:0.73766)n0;

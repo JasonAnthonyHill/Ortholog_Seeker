@@ -1,1 +1,0 @@
-(Pinus_tabuliformis_Pt9G26790.1 gene_Pt9G26790 seq_id_chr9 type_cds:0.466944,(Populus_tremula_Poptre_Potra2n6c14351.1:0.2469,(Camellia_sinensis_rna-gnl|WGS_SDRB|TEA027416.1 gene_gene-TEA_024447 seq_id_SDRB02013121.1 type_cds:0.493981,Malania_oleifera_Maole_005491.T1 gene_Maole_005491 seq_id_scaffold139 type_cds:0.309972)n2:0.443419)n1:0.466944)n0;

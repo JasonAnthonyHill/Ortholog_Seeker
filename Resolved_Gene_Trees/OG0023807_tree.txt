@@ -1,1 +1,0 @@
-(Mimulus_guttatus_Migut.C00364.1.v2.0 gene_Migut.C00364.v2.0 seq_id_scaffold_3 type_cds:0.358013,(Populus_tremula_Poptre_Potra2n296s35244.1:0.185275,(Populus_tremula_Poptre_Potra2n296s35242.1:0.421313,Populus_tremula_Poptre_Potra2n2c6384.1:0.210235)n2:0.214753)n1:0.358013)n0;

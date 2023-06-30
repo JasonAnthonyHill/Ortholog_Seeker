@@ -1,1 +1,0 @@
-(Picea_abies_PICAB_cUL09_M00003499041 gene_PICAB_cUL09_G00003498978 seq_id_PA_chr09_cUL0033 type_cds:0.132389,(Pinus_tabuliformis_Pt9G26980.1 gene_Pt9G26980 seq_id_chr9 type_cds:0.01889,(Pinus_tabuliformis_Pt9G26890.1 gene_Pt9G26890 seq_id_chr9 type_cds:0.005138,Pinus_tabuliformis_Pt9G26900.1 gene_Pt9G26900 seq_id_chr9 type_cds:0.026135)n2:0.025882)n1:0.132389)n0;

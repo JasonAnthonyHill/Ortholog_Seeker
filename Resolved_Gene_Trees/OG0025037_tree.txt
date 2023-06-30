@@ -1,1 +1,0 @@
-((Sequoiadendron_giganteum_nbisL2-cds-5374 gene_SEGI_33447 seq_id_chr4 type_cds:0.340901,Pinus_tabuliformis_Pt6G57400.1 gene_Pt6G57400 seq_id_chr6 type_cds:0.649617)n1:0.182253,(Populus_tremula_Poptre_Potra2n16c30170.1:0.840869,Salix_purpurea_SapurV1A.2412s0050.1.v1.0 gene_SapurV1A.2412s0050.v1.0 seq_id_Scaffold2412 type_cds:0.110335)n2:0.182253)n0;

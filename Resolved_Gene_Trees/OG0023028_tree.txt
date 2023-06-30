@@ -1,1 +1,0 @@
-(Ginkgo_biloba_Gb_37622 _translate_table_ standard_:0.191704,(Pinus_tabuliformis_Pt4G31630.1 gene_Pt4G31630 seq_id_chr4 type_cds:0.107074,(Welwitschia_mirabilis_W.mirabilis.13353  locus_Chr05_260324107_260359934_+ _translate_table_ standard_:0.280864,Sequoiadendron_giganteum_nbisL2-cds-28095 gene_SEGI_03962 seq_id_chr4 type_cds:0.112626)n2:0.020836)n1:0.191704)n0;

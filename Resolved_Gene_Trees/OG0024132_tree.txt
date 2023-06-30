@@ -1,1 +1,0 @@
-(Picea_abies_PICAB_chr06_M00001625567 gene_PICAB_chr06_G00001625566 seq_id_PA_chr06 type_cds:0.801316,((Physcomitrella_patens_PAC_32975410 gene_Pp3c6_28300 seq_id_Chr06 type_cds:0.563396,Physcomitrella_patens_PAC_32954499 gene_Pp3c5_860 seq_id_Chr05 type_cds:0.191483)n2:0.315943,Physcomitrella_patens_PAC_32954322 gene_Pp3c5_889 seq_id_Chr05 type_cds:0.000284)n1:0.801316)n0;

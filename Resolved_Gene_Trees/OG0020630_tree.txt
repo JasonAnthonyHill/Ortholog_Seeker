@@ -1,1 +1,0 @@
-(Malus_domestica_evm.model.Backbone_5137.1 gene_evm.model.Backbone_5137.1.g seq_id_Backbone_5137 type_cds:0.384592,(Prunus_avium_Prunavi_FUN_013877-T1.p1:0.220622,(Prunus_avium_Prunavi_FUN_002422-T1.p1:0.450822,(Prunus_avium_Prunavi_FUN_002404-T1.p1:0.402596,Prunus_avium_Prunavi_FUN_002449-T1.p1:0.295929)n3:0.356072)n2:0.329064)n1:0.384592)n0;

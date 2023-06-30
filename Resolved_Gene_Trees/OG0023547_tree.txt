@@ -1,1 +1,0 @@
-(Sequoiadendron_giganteum_nbisL2-cds-19270 gene_SEGI_18898 seq_id_chr4 type_cds:0.242915,(Populus_tremula_Poptre_Potra2n10c21366.2:0.401036,(Malus_domestica_evm.model.Backbone_4456.4 gene_evm.model.Backbone_4456.4.g seq_id_Backbone_4456 type_cds:0.476196,Salix_purpurea_SapurV1A.0052s0200.1.v1.0 gene_SapurV1A.0052s0200.v1.0 seq_id_chr14 type_cds:0.3254)n2:0.022885)n1:0.242915)n0;

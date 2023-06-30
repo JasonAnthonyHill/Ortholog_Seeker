@@ -1,1 +1,0 @@
-(Physcomitrella_patens_PAC_32948276 gene_Pp3s34_60 seq_id_scaffold_34 type_cds:0.226836,((Physcomitrella_patens_PAC_32948535 gene_Pp3s30_641 seq_id_scaffold_30 type_cds:0.127805,Physcomitrella_patens_PAC_32945168 gene_Pp3s42_180 seq_id_scaffold_42 type_cds:1.13217)n2:0.438801,Physcomitrella_patens_PAC_32948477 gene_Pp3s30_190 seq_id_scaffold_30 type_cds:0.495859)n1:0.226836)n0;

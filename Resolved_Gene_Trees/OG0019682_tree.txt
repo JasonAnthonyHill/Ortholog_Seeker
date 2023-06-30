@@ -1,1 +1,0 @@
-(Medicago_truncatula_Medtr3g456050.1.JCVIMt4.0v1 gene_Medtr3g456050.JCVIMt4.0v1 seq_id_chr3 type_cds:0.347077,(Betula_pendula_Betpen_Bpev01.c1961.g0001.m0001:0.437141,(Betula_pendula_Betpen_Bpev01.c2213.g0001.m0001:0.205633,(Betula_pendula_Betpen_Bpev01.c0283.g0019.m0001:0.347197,Betula_pendula_Betpen_Bpev01.c0283.g0020.m0001:0.480849)n3:0.467669)n2:0.087663)n1:0.347077)n0;

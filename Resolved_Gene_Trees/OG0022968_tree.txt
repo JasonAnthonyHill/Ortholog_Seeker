@@ -1,1 +1,0 @@
-((Ginkgo_biloba_Gb_04852 _translate_table_ standard_:0.811838,Zostera_marina_Zosma2g03070.1.v2.2 gene_Zosma2g03070.v2.2 seq_id_scaffold_2 type_cds:0.722904)n1:0.108095,(Pinus_tabuliformis_PtJG28160.1 gene_PtJG28160 seq_id_chr11 type_cds:0.438304,Malus_domestica_evm.model.Backbone_209.3 gene_evm.model.Backbone_209.3.g seq_id_Backbone_209 type_cds:0.517086)n2:0.108095)n0;

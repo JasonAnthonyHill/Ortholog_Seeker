@@ -1,1 +1,0 @@
-((Picea_abies_PICAB_chr12_M00003195786 gene_PICAB_chr12_G00003195785 seq_id_PA_chr12 type_cds:0.073258,Pinus_tabuliformis_Pt4G61040.1 gene_Pt4G61040 seq_id_chr4 type_cds:0.06992)n1:0.213431,(Ginkgo_biloba_Gb_11966 _translate_table_ standard_:0.335413,Ginkgo_biloba_Gb_21881 _translate_table_ standard_:0.13452)n2:0.213431)n0;

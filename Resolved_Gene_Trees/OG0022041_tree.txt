@@ -1,1 +1,0 @@
-((Beta_vulgaris_Bv6_142961z1992.t1 gene_Bv6_142961z1992 seq_id_Bvchr6.sca014 type_cds:0.372907,Mimulus_guttatus_Migut.E00635.1.v2.0 gene_Migut.E00635.v2.0 seq_id_scaffold_5 type_cds:0.331322)n1:0.0609285,(Betula_pendula_Betpen_Bpev01.c0522.g0002.m0001:0.66018,Arabidopsis_thaliana_PAC_19643985 gene_AT4G24070 seq_id_Chr4 type_cds:0.395048)n2:0.0609285)n0;

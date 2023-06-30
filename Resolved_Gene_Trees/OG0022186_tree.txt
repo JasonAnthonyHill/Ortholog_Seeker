@@ -1,1 +1,0 @@
-(Betula_pendula_Betpen_Bpev01.c5460.g0002.m0001:0.376881,((Beta_vulgaris_Bv_035421z5105.t1 gene_Bv_035421z5105 seq_id_contig131540 type_cds:1.12563,Beta_vulgaris_Bv_036870_cudj.t1 gene_Bv_036870_cudj seq_id_contig137000 type_cds:0.753423)n2:0.149708,Beta_vulgaris_Bv_019330_phxa.t1 gene_Bv_019330_phxa seq_id_contig97886 type_cds:1.13334)n1:0.376881)n0;

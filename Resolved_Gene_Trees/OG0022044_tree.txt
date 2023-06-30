@@ -1,1 +1,0 @@
-(Arabidopsis_thaliana_PAC_19647550 gene_AT4G33130 seq_id_Chr4 type_cds:0.652069,(Pinus_tabuliformis_PtJG09990.1 gene_PtJG09990 seq_id_chr11 type_cds:0.072601,(Pinus_tabuliformis_PtJG05590.1 gene_PtJG05590 seq_id_chr11 type_cds:0,Pinus_tabuliformis_Pt3G34050.1 gene_Pt3G34050 seq_id_chr3 type_cds:0)n2:0.427369)n1:0.652069)n0;

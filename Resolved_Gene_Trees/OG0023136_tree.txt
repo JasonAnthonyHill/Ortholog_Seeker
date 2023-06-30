@@ -1,1 +1,0 @@
-((Malania_oleifera_Maole_002572.T1 gene_Maole_002572 seq_id_scaffold14 type_cds:1.3059,Malania_oleifera_Maole_019890.T1 gene_Maole_019890 seq_id_scaffold171 type_cds:1.34919)n1:0.0098075,(Physcomitrella_patens_PAC_32918520 gene_Pp3c26_40 seq_id_Chr26 type_cds:2.71673e-06,Physcomitrella_patens_PAC_32938563 gene_Pp3c19_9280 seq_id_Chr19 type_cds:0.066078)n2:0.0098075)n0;

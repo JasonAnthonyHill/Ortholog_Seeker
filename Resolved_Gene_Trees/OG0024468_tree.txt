@@ -1,1 +1,0 @@
-(Picea_abies_PICAB_chr07_M00002004728 gene_PICAB_chr07_G00002004727 seq_id_PA_chr07 type_cds:0.249722,(Pinus_tabuliformis_Pt6G52180.3 gene_Pt6G52180 seq_id_chr6 type_cds:0.168508,(Pinus_tabuliformis_Pt6G52200.8 gene_Pt6G52200 seq_id_chr6 type_cds:0.243436,Pinus_tabuliformis_Pt6G52130.1 gene_Pt6G52130 seq_id_chr6 type_cds:0.094735)n2:0.026268)n1:0.249722)n0;

@@ -1,1 +1,0 @@
-((Beta_vulgaris_Bv_034601z4826.t1 gene_Bv_034601z4826 seq_id_contig129178 type_cds:0.474216,(Physcomitrella_patens_PAC_32908143 gene_Pp3c17_11180 seq_id_Chr17 type_cds:0.564043,Physcomitrella_patens_PAC_32961159 gene_Pp3c14_9500 seq_id_Chr14 type_cds:0.401548)n2:0.0446165)n1:0.115635,Ginkgo_biloba_Gb_05900 _translate_table_ standard_:0.439372)n0;

@@ -1,1 +1,0 @@
-(Populus_tremula_Poptre_Potra2n7c15998.1:0.354826,((Pinus_tabuliformis_Pt6G53610.1 gene_Pt6G53610 seq_id_chr6 type_cds:0.090555,Pinus_tabuliformis_PtQG29380.2 gene_PtQG29380 seq_id_chr12 type_cds:0.113456)n2:0.390377,Welwitschia_mirabilis_W.mirabilis.22326  locus_Chr08_218061246_218065419_- _translate_table_ standard_:0.974942)n1:0.354826)n0;

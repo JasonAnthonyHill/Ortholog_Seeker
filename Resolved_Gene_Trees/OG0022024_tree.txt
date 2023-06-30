@@ -1,1 +1,0 @@
-(Arabidopsis_thaliana_PAC_19662864 gene_AT3G04900 seq_id_Chr3 type_cds:0.91857,((Salix_purpurea_SapurV1A.0379s0410.1.v1.0 gene_SapurV1A.0379s0410.v1.0 seq_id_chr09 type_cds:0,Salix_purpurea_SapurV1A.1640s0070.1.v1.0 gene_SapurV1A.1640s0070.v1.0 seq_id_chr09 type_cds:0)n2:0.240207,Populus_tremula_Poptre_Potra2n9c19005.1:0.110938)n1:0.91857)n0;

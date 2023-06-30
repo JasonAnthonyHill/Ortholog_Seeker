@@ -1,1 +1,0 @@
-((Pinus_tabuliformis_Pt0G03310.1 gene_Pt0G03310 seq_id_tig00054616 type_cds:0.522901,(Salix_purpurea_SapurV1A.9265s0010.1.v1.0 gene_SapurV1A.9265s0010.v1.0 seq_id_Scaffold9265 type_cds:0.557818,Salix_purpurea_SapurV1A.1185s0030.1.v1.0 gene_SapurV1A.1185s0030.v1.0 seq_id_chr11 type_cds:0.170477)n2:0.0189419)n1:0.164964,Ginkgo_biloba_Gb_18973 _translate_table_ standard_:1.07024)n0;
