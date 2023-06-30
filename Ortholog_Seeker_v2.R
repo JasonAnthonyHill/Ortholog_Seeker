@@ -99,9 +99,9 @@ server <- function(input, output) {
            "Gene ID not found in dataset")
     )
     orthologs %>%
-      dplyr::group_by(Ortholog_Group) %>% 
-      dplyr::filter(any(toupper(gene) == toupper(trimws(input$gene))), species %in% input$species) %>% 
-      dplyr::ungroup()
+      group_by(Ortholog_Group) %>% 
+      filter(any(toupper(gene) == toupper(trimws(input$gene))), species %in% input$species) %>% 
+      ungroup()
   })
   
   # Output Table of Ortholog Information
@@ -123,8 +123,8 @@ server <- function(input, output) {
   fasta <- eventReactive(input$go, {
     Biostrings::readAAStringSet(filepath = paste0(datapath, "Orthogroup_Sequences/", filtered_data()$Ortholog_Group %>% unique(), ".fa.gz")) %>% 
       .[grepl(stringr::str_c(filtered_data() %>% 
-                      dplyr::filter(species %in% input$species) %>% 
-                      dplyr::pull(gene),
+                      filter(species %in% input$species) %>% 
+                      pull(gene),
                     collapse = "|"), .@ranges@NAMES)]
   })
   
@@ -214,8 +214,8 @@ server <- function(input, output) {
   
   # Plot Barstack
   output$barstack <- renderPlot(filtered_data() %>%
-                                  dplyr::group_by(Ortholog_Group, species) %>%
-                                  dplyr::tally() %>%
+                                  group_by(Ortholog_Group, species) %>%
+                                  tally() %>%
                                   ggplot2::ggplot() +
                                   ggplot2::geom_col(aes(x = species, y = n, fill = n)) +
                                   ggplot2::theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust=1),
@@ -232,8 +232,8 @@ server <- function(input, output) {
     },
     content = function(file) {
       spruce_genes <- filtered_data() %>%
-        dplyr::filter(species == "Picea_abies") %>%
-        dplyr::pull(gene)
+        filter(species == "Picea_abies") %>%
+        pull(gene)
       spruce_gff_subset <- subset(spruce_gff, ID %in% spruce_genes)
       IRanges::subsetByOverlaps(spruce_gff, spruce_gff_subset) %>%
         rtracklayer::export.gff3(file)

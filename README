@@ -1,0 +1,4 @@
+To run a local instance clone the repo to your local machine, and run the Ortholog_Seeker_v2.R script as a local shiny app. You will probably need to install the packages.
+
+
+More detailed step-by-step instructions will come soon.
