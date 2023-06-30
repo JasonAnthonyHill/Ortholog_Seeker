@@ -1,0 +1,1 @@
+((Malus_domestica_evm.model.Backbone_422.7 gene_evm.model.Backbone_422.7.g seq_id_Backbone_422 type_cds:0.1926,Malus_domestica_evm.model.Backbone_4774.7 gene_evm.model.Backbone_4774.7.g seq_id_Backbone_4774 type_cds:0.928703)n1:0.315543,(Prunus_avium_Prunavi_FUN_034167-T1.p1:0.320018,Prunus_avium_Prunavi_FUN_034166-T1.p1:0.175858)n2:0.315543)n0;

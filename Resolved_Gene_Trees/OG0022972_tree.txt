@@ -1,0 +1,1 @@
+(Physcomitrella_patens_PAC_32900493 gene_Pp3c10_9990 seq_id_Chr10 type_cds:0.282416,((Pinus_tabuliformis_Pt1G62600.6 gene_Pt1G62600 seq_id_chr1 type_cds:0.262638,Ginkgo_biloba_Gb_27179 _translate_table_ standard_:0.176864)n2:0.091404,Taxus_chinensis_rna-gnl|WGS_JAHRHJ|evm2.model.Chr10.2917 gene_gene-KI387_034459 seq_id_CM034155.1 type_cds:0.146296)n1:0.282416)n0;

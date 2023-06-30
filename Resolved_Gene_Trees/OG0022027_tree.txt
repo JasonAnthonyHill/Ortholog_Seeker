@@ -1,0 +1,1 @@
+(Malania_oleifera_Maole_021338.T1 gene_Maole_021338 seq_id_scaffold489 type_cds:0.236936,(Arabidopsis_thaliana_PAC_19663385 gene_AT3G20362 seq_id_Chr3 type_cds:0.165799,(Betula_pendula_Betpen_Bpev01.c0149.g0012.m0001:0.621634,Vitis_vinifera_GSVIVT01033267001.Genoscope12X gene_GSVIVG01033267001.Genoscope12X seq_id_chr8 type_cds:0.480143)n2:0.113199)n1:0.236936)n0;

@@ -1,0 +1,1 @@
+(Sequoiadendron_giganteum_nbisL2-cds-30294 gene_SEGI_10092 seq_id_chr8 type_cds:0.327824,(Cucumis_sativus_Cucsa.165940.1.v1.122 gene_Cucsa.165940.v1 seq_id_scaffold01153 type_cds:0.54974,(Arabidopsis_thaliana_PAC_19641461 gene_AT2G39250 seq_id_Chr2 type_cds:0.311594,Arabidopsis_thaliana_PAC_19661651 gene_AT3G54990 seq_id_Chr3 type_cds:0.265705)n2:0.339758)n1:0.327824)n0;

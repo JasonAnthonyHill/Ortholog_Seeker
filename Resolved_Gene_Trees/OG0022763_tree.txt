@@ -1,0 +1,1 @@
+((Nicotiana_tabacum_Nitab4.5_0000416g0170.1 gene_Nitab4.5_0000416g0170 seq_id_Nitab4.5_0000416 type_cds:0.386559,Nicotiana_tabacum_Nitab4.5_0014229g0010.1 gene_Nitab4.5_0014229g0010 seq_id_Nitab4.5_0014229 type_cds:0.39165)n1:0.474766,(Ginkgo_biloba_Gb_17183 _translate_table_ standard_:0.071979,Ginkgo_biloba_Gb_17182 _translate_table_ standard_:0.009241)n2:0.474766)n0;

@@ -1,0 +1,1 @@
+(Physcomitrella_patens_PAC_32952082 gene_Pp3c27_5460 seq_id_Chr27 type_cds:0.105043,((Physcomitrella_patens_PAC_32951683 gene_Pp3c27_5310 seq_id_Chr27 type_cds:0.29785,Physcomitrella_patens_PAC_32950144 gene_Pp3c23_7330 seq_id_Chr23 type_cds:1.79755)n2:0.087729,Physcomitrella_patens_PAC_32969269 gene_Pp3c1_23870 seq_id_Chr01 type_cds:0.23175)n1:0.105043)n0;

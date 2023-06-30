@@ -1,0 +1,1 @@
+(Taxus_chinensis_rna-gnl|WGS_JAHRHJ|evm2.model.Chr02.3248 gene_gene-KI387_007452 seq_id_CM034147.1 type_cds:0.327742,(Betula_pendula_Betpen_Bpev01.c0443.g0006.m0001:0.729188,(Betula_pendula_Betpen_Bpev01.c0443.g0008.m0001:0.156824,Betula_pendula_Betpen_Bpev01.c0397.g0003.m0001:0.195196)n2:0.186015)n1:0.327742)n0;

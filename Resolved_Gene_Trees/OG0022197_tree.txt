@@ -1,0 +1,1 @@
+(Physcomitrella_patens_PAC_32980396 gene_Pp3c25_5830 seq_id_Chr25 type_cds:0.591646,(Beta_vulgaris_Bv_024910_grfa.t1 gene_Bv_024910_grfa seq_id_contig107286 type_cds:1.17079,(Ginkgo_biloba_Gb_34560 _translate_table_ standard_:0.92268,Ginkgo_biloba_Gb_13563 _translate_table_ standard_:0.644852)n2:0.0716502)n1:0.295255)n0;

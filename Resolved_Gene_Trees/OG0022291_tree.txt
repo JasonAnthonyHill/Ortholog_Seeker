@@ -1,0 +1,1 @@
+(Malus_domestica_evm.model.Backbone_3225.3 gene_evm.model.Backbone_3225.3.g seq_id_Backbone_3225 type_cds:0.73775,((Betula_pendula_Betpen_Bpev01.c0123.g0009.m0001:0.880825,Betula_pendula_Betpen_Bpev01.c0123.g0010.m0001:3.32306e-06)n2:0.893185,Betula_pendula_Betpen_Bpev01.c0123.g0008.m0001:0.432939)n1:0.73775)n0;

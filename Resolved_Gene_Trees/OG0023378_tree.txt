@@ -1,0 +1,1 @@
+(Pinus_tabuliformis_Pt3G70940.1 gene_Pt3G70940 seq_id_chr3 type_cds:0.422656,(Malus_domestica_evm.model.Backbone_1099.13 gene_evm.model.Backbone_1099.13.g seq_id_Backbone_1099 type_cds:0.287956,(Prunus_avium_Prunavi_FUN_027547-T1.p1:0.097896,Prunus_avium_Prunavi_FUN_027611-T1.p1:0.043208)n2:0.57816)n1:0.422656)n0;

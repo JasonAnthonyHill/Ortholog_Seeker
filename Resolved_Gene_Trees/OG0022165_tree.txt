@@ -1,0 +1,1 @@
+((Beta_vulgaris_Bv6_152390_msrc.t1 gene_Bv6_152390_msrc seq_id_Bvchr6.sca028 type_cds:0.372646,Beta_vulgaris_Bv6_152400_owxk.t2 gene_Bv6_152400_owxk seq_id_Bvchr6.sca028 type_cds:0.455012)n1:0.309946,(Prunus_avium_Prunavi_FUN_034392-T2.p1:0,Prunus_avium_Prunavi_FUN_034392-T1.p1:0)n2:0.309946)n0;

@@ -1,0 +1,1 @@
+(Vitis_vinifera_GSVIVT01000209001.Genoscope12X gene_GSVIVG01000209001.Genoscope12X seq_id_chr7 type_cds:0.474259,(Populus_tremula_Poptre_Potra2n5c11555.1:0.184524,(Populus_tremula_Poptre_Potra2n5c11551.1:0.455219,Populus_tremula_Poptre_Potra2n5c11546.1:0.768587)n2:0.208983)n1:0.474259)n0;

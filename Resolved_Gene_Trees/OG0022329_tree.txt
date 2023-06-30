@@ -1,0 +1,1 @@
+(Vitis_vinifera_GSVIVT01036337001.Genoscope12X gene_GSVIVG01036337001.Genoscope12X seq_id_chr18_random type_cds:0.401095,(Betula_pendula_Betpen_Bpev01.c0052.g0123.m0001:0.405746,(Betula_pendula_Betpen_Bpev01.c0052.g0121.m0001:0.250322,Betula_pendula_Betpen_Bpev01.c0052.g0122.m0001:0.35389)n2:0.512552)n1:0.401095)n0;

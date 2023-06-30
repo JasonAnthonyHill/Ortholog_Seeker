@@ -1,0 +1,1 @@
+(Vitis_vinifera_GSVIVT01025907001.Genoscope12X gene_GSVIVG01025907001.Genoscope12X seq_id_chr18 type_cds:0.527984,(Ginkgo_biloba_Gb_18066 _translate_table_ standard_:1.58947,(Sequoiadendron_giganteum_nbisL2-cds-6638 gene_SEGI_28904 seq_id_chr1 type_cds:1.00089,Sequoiadendron_giganteum_nbisL2-cds-9524 gene_SEGI_14274 seq_id_chr1 type_cds:0.538264)n2:0.45952)n1:0.527984)n0;

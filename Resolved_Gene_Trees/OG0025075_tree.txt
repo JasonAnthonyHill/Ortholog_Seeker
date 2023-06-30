@@ -1,0 +1,1 @@
+(Pinus_tabuliformis_Pt0G12170.1 gene_Pt0G12170 seq_id_tig00022086 type_cds:0.300353,(Pinus_tabuliformis_Pt8G41100.1 gene_Pt8G41100 seq_id_chr8 type_cds:1.29305e-06,(Pinus_tabuliformis_Pt8G24840.1 gene_Pt8G24840 seq_id_chr8 type_cds:1.29305e-06,Pinus_tabuliformis_Pt8G24860.1 gene_Pt8G24860 seq_id_chr8 type_cds:0.787133)n2:0.118298)n1:0.300353)n0;

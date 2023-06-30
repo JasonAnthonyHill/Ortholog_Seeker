@@ -1,0 +1,1 @@
+(Medicago_truncatula_Medtr6g071995.1.JCVIMt4.0v1 gene_Medtr6g071995.JCVIMt4.0v1 seq_id_chr6 type_cds:0.417816,((Pinus_tabuliformis_PtXG33890.1 gene_PtXG33890 seq_id_chr10 type_cds:0.066734,Pinus_tabuliformis_Pt7G08540.1 gene_Pt7G08540 seq_id_chr7 type_cds:0.05663)n2:0.051402,Pinus_tabuliformis_Pt7G08560.1 gene_Pt7G08560 seq_id_chr7 type_cds:0.041876)n1:0.417816)n0;

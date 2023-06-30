@@ -1,0 +1,1 @@
+(Camellia_sinensis_rna-gnl|WGS_SDRB|TEA031951.1 gene_gene-TEA_028436 seq_id_SDRB02013809.1 type_cds:0.740703,(Prunus_avium_Prunavi_FUN_007383-T1.p1:0.395281,(Prunus_avium_Prunavi_FUN_007312-T1.p1:2.92847e-06,Prunus_avium_Prunavi_FUN_007315-T1.p1:0.443342)n2:0.63756)n1:0.740703)n0;

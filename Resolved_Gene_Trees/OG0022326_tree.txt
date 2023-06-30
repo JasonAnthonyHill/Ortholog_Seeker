@@ -1,0 +1,1 @@
+((Betula_pendula_Betpen_Bpev01.c0819.g0005.m0001:0.779468,Malus_domestica_evm.model.Backbone_20.1 gene_evm.model.Backbone_20.1.g seq_id_Backbone_20 type_cds:0.670941)n1:0.112724,(Pinus_tabuliformis_Pt5G35570.1 gene_Pt5G35570 seq_id_chr5 type_cds:0.349488,Pinus_tabuliformis_Pt9G23430.1 gene_Pt9G23430 seq_id_chr9 type_cds:0.317972)n2:0.112724)n0;

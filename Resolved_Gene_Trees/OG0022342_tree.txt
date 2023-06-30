@@ -1,0 +1,1 @@
+(Betula_pendula_Betpen_Bpev01.c1455.g0006.m0001:0.517451,(Prunus_avium_Prunavi_FUN_034052-T1.p1:0.209045,(Malus_domestica_evm.model.Backbone_7763.2 gene_evm.model.Backbone_7763.2.g seq_id_Backbone_7763 type_cds:0.190808,Malus_domestica_evm.model.Backbone_1387.7 gene_evm.model.Backbone_1387.7.g seq_id_Backbone_1387 type_cds:0.961189)n2:0.703762)n1:0.517451)n0;

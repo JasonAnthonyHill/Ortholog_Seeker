@@ -1,0 +1,1 @@
+(Physcomitrella_patens_PAC_32911186 gene_Pp3c9_14020 seq_id_Chr09 type_cds:0.791817,(Ginkgo_biloba_Gb_19529 _translate_table_ standard_:0.358941,(Picea_abies_PICAB_chr11_M00003129728 gene_PICAB_chr11_G00003129121 seq_id_PA_chr11 type_cds:0.220701,Pinus_tabuliformis_PtQG03520.4 gene_PtQG03520 seq_id_chr12 type_cds:0.120951)n2:0.504549)n1:0.791817)n0;

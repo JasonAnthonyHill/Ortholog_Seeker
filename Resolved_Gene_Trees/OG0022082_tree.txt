@@ -1,0 +1,1 @@
+(Beta_vulgaris_Bv5_100080_ckzo.t1 gene_Bv5_100080_ckzo seq_id_Bvchr5.sca002 type_cds:0.183953,((Eucalyptus_grandis_Eucgr.D01825.1.v2.0 gene_Eucgr.D01825.v2.0 seq_id_Chr04 type_cds:0.563683,Medicago_truncatula_Medtr5g010060.1.JCVIMt4.0v1 gene_Medtr5g010060.JCVIMt4.0v1 seq_id_chr5 type_cds:0.412025)n2:0.037388,Populus_tremula_Poptre_Potra2n1c837.1:0.394635)n1:0.183953)n0;

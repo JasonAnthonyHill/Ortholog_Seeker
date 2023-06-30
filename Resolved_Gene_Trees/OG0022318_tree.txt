@@ -1,0 +1,1 @@
+(Vitis_vinifera_GSVIVT01030638001.Genoscope12X gene_GSVIVG01030638001.Genoscope12X seq_id_chr12 type_cds:0.383887,((Populus_tremula_Poptre_Potra2n19c33386.1:0.104985,Populus_tremula_Poptre_Potra2n620s36191.1:0.065376)n2:0.774573,Betula_pendula_Betpen_Bpev01.c0722.g0008.m0001:0.381832)n1:0.383887)n0;

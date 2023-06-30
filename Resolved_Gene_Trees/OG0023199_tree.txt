@@ -1,0 +1,1 @@
+(Malania_oleifera_Maole_017562.T1 gene_Maole_017562 seq_id_scaffold367 type_cds:0.910354,((Sequoiadendron_giganteum_nbisL2-cds-15367 gene_SEGI_20040 seq_id_chr1 type_cds:0.128152,Sequoiadendron_giganteum_nbisL2-cds-21821 gene_SEGI_24251 seq_id_chr1 type_cds:0.049686)n2:0.076299,Sequoiadendron_giganteum_nbisL2-cds-20243 gene_SEGI_34844 seq_id_chr1 type_cds:0.200298)n1:0.910354)n0;

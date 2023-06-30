@@ -1,0 +1,1 @@
+(Physcomitrella_patens_PAC_32978619 gene_Pp3c6_19090 seq_id_Chr06 type_cds:0.13976,((Physcomitrella_patens_PAC_32976044 gene_Pp3c6_19101 seq_id_Chr06 type_cds:1.25431,Physcomitrella_patens_PAC_32976391 gene_Pp3c6_19080 seq_id_Chr06 type_cds:0.266728)n2:0.799115,Physcomitrella_patens_PAC_32977602 gene_Pp3c6_19100 seq_id_Chr06 type_cds:0.160655)n1:0.13976)n0;

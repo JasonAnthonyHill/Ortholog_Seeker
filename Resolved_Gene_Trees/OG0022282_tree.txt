@@ -1,0 +1,1 @@
+(Betula_pendula_Betpen_Bpev01.c0321.g0005.m0001:0.550619,(Salix_purpurea_SapurV1A.0023s0600.1.v1.0 gene_SapurV1A.0023s0600.v1.0 seq_id_chr10 type_cds:0.184206,(Populus_tremula_Poptre_Potra2n8c17014.1:0.221733,Populus_tremula_Poptre_Potra2n10c20487.1:0.202523)n2:0.0225026)n1:0.102948)n0;

@@ -1,0 +1,1 @@
+(Physcomitrella_patens_PAC_32904618 gene_Pp3c22_10120 seq_id_Chr22 type_cds:0.548503,((Ginkgo_biloba_Gb_09949 _translate_table_ standard_:0.402563,(Ginkgo_biloba_Gb_10617 _translate_table_ standard_:0.468177,Ginkgo_biloba_Gb_09950 _translate_table_ standard_:0.748881)n3:0.166663)n2:0.201769,Ginkgo_biloba_Gb_09951 _translate_table_ standard_:0.968286)n1:0.548503)n0;

@@ -1,0 +1,1 @@
+(Populus_tremula_Poptre_Potra2n5c12160.1:0.633454,((Ginkgo_biloba_Gb_17203 _translate_table_ standard_:0.10533,Ginkgo_biloba_Gb_17201 _translate_table_ standard_:0.113689)n2:0.855694,Ginkgo_biloba_Gb_17200 _translate_table_ standard_:0.175521)n1:0.633454)n0;

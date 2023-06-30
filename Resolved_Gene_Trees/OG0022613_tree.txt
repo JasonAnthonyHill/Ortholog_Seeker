@@ -1,0 +1,1 @@
+(Cucumis_sativus_Cucsa.319730.1.v1.122 gene_Cucsa.319730.v1 seq_id_scaffold03078 type_cds:0.418978,(Ginkgo_biloba_Gb_29801 _translate_table_ standard_:0.214608,(Picea_abies_PICAB_chr07_M00001988616 gene_PICAB_chr07_G00001988596 seq_id_PA_chr07 type_cds:0.079729,Pinus_tabuliformis_Pt6G44630.1 gene_Pt6G44630 seq_id_chr6 type_cds:0.088708)n2:0.124501)n1:0.418978)n0;

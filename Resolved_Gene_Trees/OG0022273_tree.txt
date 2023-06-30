@@ -1,0 +1,1 @@
+(Picea_abies_PICAB_chr12_M00003236044 gene_PICAB_chr12_G00003236043 seq_id_PA_chr12 type_cds:0.206289,((Malania_oleifera_Maole_004969.T1 gene_Maole_004969 seq_id_scaffold45 type_cds:0.478883,Betula_pendula_Betpen_Bpev01.c1779.g0008.m0001:0.214825)n2:0.077907,Camellia_sinensis_rna-gnl|WGS_SDRB|TEA033088.1 gene_gene-TEA_029452 seq_id_SDRB02002002.1 type_cds:0.197282)n1:0.206289)n0;

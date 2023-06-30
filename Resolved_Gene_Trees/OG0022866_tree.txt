@@ -1,0 +1,1 @@
+(Populus_tremula_Poptre_Potra2n673s36390.1:0.355749,(Pinus_tabuliformis_Pt9G22760.1 gene_Pt9G22760 seq_id_chr9 type_cds:0.491039,(Ginkgo_biloba_Gb_01935 _translate_table_ standard_:0.334705,Welwitschia_mirabilis_W.mirabilis.04087  locus_Chr04_180743896_180744138_- _translate_table_ standard_:0.332354)n2:0.039043)n1:0.355749)n0;

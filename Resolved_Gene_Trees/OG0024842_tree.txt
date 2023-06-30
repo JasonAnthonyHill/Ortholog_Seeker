@@ -1,0 +1,1 @@
+(Pinus_tabuliformis_Pt3G47700.1 gene_Pt3G47700 seq_id_chr3 type_cds:0.024365,(Pinus_tabuliformis_Pt3G47670.1 gene_Pt3G47670 seq_id_chr3 type_cds:0.01668,(Pinus_tabuliformis_Pt3G02650.2 gene_Pt3G02650 seq_id_chr3 type_cds:0.036692,Pinus_tabuliformis_Pt8G15600.1 gene_Pt8G15600 seq_id_chr8 type_cds:1.74735e-07)n2:0.073754)n1:0.024365)n0;

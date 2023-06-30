@@ -1,0 +1,1 @@
+((Prunus_avium_Prunavi_FUN_039053-T1.p1:0.848214,Vitis_vinifera_GSVIVT01035910001.Genoscope12X gene_GSVIVG01035910001.Genoscope12X seq_id_chr4 type_cds:0.928486)n1:0.149923,(Pinus_tabuliformis_Pt0G26810.1 gene_Pt0G26810 seq_id_tig00062317 type_cds:2.53521e-06,Pinus_tabuliformis_Pt5G09420.1 gene_Pt5G09420 seq_id_chr5 type_cds:1.09851)n2:0.149923)n0;

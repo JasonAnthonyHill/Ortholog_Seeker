@@ -1,0 +1,1 @@
+(Ginkgo_biloba_Gb_05687 _translate_table_ standard_:0.603452,(Mimulus_guttatus_Migut.M01377.1.v2.0 gene_Migut.M01377.v2.0 seq_id_scaffold_13 type_cds:0.587072,(Populus_tremula_Poptre_Potra2n4c8459.1:0.473116,Salix_purpurea_SapurV1A.0429s0310.1.v1.0 gene_SapurV1A.0429s0310.v1.0 seq_id_chr04 type_cds:0.249757)n2:0.312684)n1:0.603452)n0;

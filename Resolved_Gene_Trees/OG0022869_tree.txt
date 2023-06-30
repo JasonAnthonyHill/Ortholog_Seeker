@@ -1,0 +1,1 @@
+((Ginkgo_biloba_Gb_04455 _translate_table_ standard_:0,Ginkgo_biloba_Gb_00038 _translate_table_ standard_:0)n1:0.554941,(Sequoiadendron_giganteum_nbisL2-cds-33904 gene_SEGI_00324 seq_id_chr8 type_cds:0.855365,Pinus_tabuliformis_Pt3G38730.1 gene_Pt3G38730 seq_id_chr3 type_cds:0.802885)n2:0.554941)n0;

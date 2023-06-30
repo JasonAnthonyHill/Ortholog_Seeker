@@ -1,0 +1,1 @@
+(Ginkgo_biloba_Gb_17181 _translate_table_ standard_:1.21519e-06,((Ginkgo_biloba_Gb_36411 _translate_table_ standard_:0.162552,Ginkgo_biloba_Gb_06813 _translate_table_ standard_:0.03453)n2:0.04491,Ginkgo_biloba_Gb_35529 _translate_table_ standard_:0.995205)n1:1.21519e-06)n0;

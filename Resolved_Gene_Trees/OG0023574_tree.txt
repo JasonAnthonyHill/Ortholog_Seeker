@@ -1,0 +1,1 @@
+((Prunus_avium_Prunavi_FUN_037278-T1.p1:0.259896,Malus_domestica_evm.model.Backbone_6814.12 gene_evm.model.Backbone_6814.12.g seq_id_Backbone_6814 type_cds:0.066635)n1:0.395345,(Pinus_tabuliformis_Pt0G31710.1 gene_Pt0G31710 seq_id_tig00028536 type_cds:0.446358,Picea_abies_PICAB_chr01_M00000236624 gene_PICAB_chr01_G00000236623 seq_id_PA_chr01 type_cds:0.415703)n2:0.395345)n0;

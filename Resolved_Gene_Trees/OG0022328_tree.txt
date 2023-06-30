@@ -1,0 +1,1 @@
+(Betula_pendula_Betpen_Bpev01.c1433.g0001.m0001:0.297758,(Pinus_tabuliformis_Pt2G54730.1 gene_Pt2G54730 seq_id_chr2 type_cds:0.067346,(Pinus_tabuliformis_PtJG35730.1 gene_PtJG35730 seq_id_chr11 type_cds:0.099348,Pinus_tabuliformis_PtJG35570.1 gene_PtJG35570 seq_id_chr11 type_cds:0.185155)n2:0.235313)n1:0.297758)n0;

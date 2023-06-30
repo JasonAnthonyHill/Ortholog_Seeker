@@ -1,0 +1,1 @@
+(Beta_vulgaris_Bv3_063330_yeqm.t1 gene_Bv3_063330_yeqm seq_id_Bvchr3.sca010 type_cds:0.551302,(Pinus_tabuliformis_Pt9G56780.1 gene_Pt9G56780 seq_id_chr9 type_cds:0.695334,(Ginkgo_biloba_Gb_25425 _translate_table_ standard_:0.992808,Taxus_chinensis_rna-gnl|WGS_JAHRHJ|evm2.model.Chr04.2527 gene_gene-KI387_014040 seq_id_CM034149.1 type_cds:1.10353)n2:0.04562)n1:0.551302)n0;

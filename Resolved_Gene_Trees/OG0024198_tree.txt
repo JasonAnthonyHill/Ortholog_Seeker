@@ -1,0 +1,1 @@
+((Sequoiadendron_giganteum_nbisL2-cds-56 gene_SEGI_27593 seq_id_chr9 type_cds:0.49421,Pinus_tabuliformis_Pt3G42130.2 gene_Pt3G42130 seq_id_chr3 type_cds:0.582851)n1:0.433034,(Physcomitrella_patens_PAC_32985334 gene_Pp3c16_10560 seq_id_Chr16 type_cds:0.245298,Physcomitrella_patens_PAC_32986800 gene_Pp3c16_10570 seq_id_Chr16 type_cds:0.401465)n2:0.433034)n0;

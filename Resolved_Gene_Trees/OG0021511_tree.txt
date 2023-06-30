@@ -1,0 +1,1 @@
+(Pinus_tabuliformis_Pt5G26350.1 gene_Pt5G26350 seq_id_chr5 type_cds:0.248949,(Populus_tremula_Poptre_Potra2n616s36165.1:0.314724,(Populus_tremula_Poptre_Potra2n17c31874.1:0.21233,(Populus_tremula_Poptre_Potra2n478s35767.1:0.27442,Populus_tremula_Poptre_Potra2n17c31870.1:0.170882)n3:0.197791)n2:0.092654)n1:0.248949)n0;

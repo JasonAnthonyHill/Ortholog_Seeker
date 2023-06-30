@@ -1,0 +1,1 @@
+(Picea_abies_PICAB_chr02_M00000538291 gene_PICAB_chr02_G00000538290 seq_id_PA_chr02 type_cds:0.172559,((Populus_tremula_Poptre_Potra2n6c13445.1:0.470659,Salix_purpurea_SapurV1A.0017s0320.1.v1.0 gene_SapurV1A.0017s0320.v1.0 seq_id_chr02 type_cds:0.429758)n2:0.329421,Zostera_marina_Zosma257g00010.1.v2.2 gene_Zosma257g00010.v2.2 seq_id_scaffold_257 type_cds:0.404476)n1:0.172559)n0;

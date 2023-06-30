@@ -1,0 +1,1 @@
+((Pinus_tabuliformis_Pt6G51930.1 gene_Pt6G51930 seq_id_chr6 type_cds:0.1644,Pinus_tabuliformis_PtJG44050.1 gene_PtJG44050 seq_id_chr11 type_cds:0.24407)n1:0.146655,(Populus_tremula_Poptre_Potra2n6c14955.1:0.310269,Malus_domestica_evm.model.Backbone_8044.1 gene_evm.model.Backbone_8044.1.g seq_id_Backbone_8044 type_cds:0.590105)n2:0.146655)n0;

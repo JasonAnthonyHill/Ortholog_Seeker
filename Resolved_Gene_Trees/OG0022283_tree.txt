@@ -1,0 +1,1 @@
+(Ginkgo_biloba_Gb_17761 _translate_table_ standard_:0.642316,(Vitis_vinifera_GSVIVT01000191001.Genoscope12X gene_GSVIVG01000191001.Genoscope12X seq_id_chr7 type_cds:0.395289,(Betula_pendula_Betpen_Bpev01.c0212.g0007.m0001:0.868927,Eucalyptus_grandis_Eucgr.F00174.1.v2.0 gene_Eucgr.F00174.v2.0 seq_id_Chr06 type_cds:1.03942)n2:0.265195)n1:0.642316)n0;

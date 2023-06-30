@@ -1,0 +1,1 @@
+(Medicago_truncatula_Medtr3g007780.1.JCVIMt4.0v1 gene_Medtr3g007780.JCVIMt4.0v1 seq_id_chr3 type_cds:0.483474,(Prunus_avium_Prunavi_FUN_035281-T1.p1:0.760674,(Prunus_avium_Prunavi_FUN_008276-T1.p1:0.71292,Prunus_avium_Prunavi_FUN_035016-T1.p1:0.673175)n2:0.03798)n1:0.483474)n0;

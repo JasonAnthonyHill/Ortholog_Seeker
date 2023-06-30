@@ -1,0 +1,1 @@
+((Pinus_tabuliformis_Pt2G72170.1 gene_Pt2G72170 seq_id_chr2 type_cds:0.223023,Pinus_tabuliformis_PtQG14550.1 gene_PtQG14550 seq_id_chr12 type_cds:0.121342)n1:0.433322,(Prunus_avium_Prunavi_FUN_022192-T1.p1:0.600093,Malus_domestica_evm.model.Backbone_203.5 gene_evm.model.Backbone_203.5.g seq_id_Backbone_203 type_cds:0.305215)n2:0.433322)n0;

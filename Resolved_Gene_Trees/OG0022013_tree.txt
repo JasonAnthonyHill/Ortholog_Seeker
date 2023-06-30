@@ -1,0 +1,1 @@
+(Ginkgo_biloba_Gb_20396 _translate_table_ standard_:0.303885,((Arabidopsis_thaliana_PAC_19641512 gene_AT2G16200 seq_id_Chr2 type_cds:0.498796,Malus_domestica_evm.model.Backbone_7769.2 gene_evm.model.Backbone_7769.2.g seq_id_Backbone_7769 type_cds:0.771592)n2:0.132122,Betula_pendula_Betpen_Bpev01.c0650.g0012.m0001:0.488322)n1:0.303885)n0;

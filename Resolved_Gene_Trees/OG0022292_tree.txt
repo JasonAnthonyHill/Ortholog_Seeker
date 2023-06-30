@@ -1,0 +1,1 @@
+(Mimulus_guttatus_Migut.H00683.1.v2.0 gene_Migut.H00683.v2.0 seq_id_scaffold_8 type_cds:0.168176,(Betula_pendula_Betpen_Bpev01.c0159.g0008.m0001:0.263483,(Prunus_avium_Prunavi_FUN_006057-T1.p1:0.319802,Prunus_avium_Prunavi_FUN_007146-T1.p1:0.08396)n2:0.346)n1:0.168176)n0;

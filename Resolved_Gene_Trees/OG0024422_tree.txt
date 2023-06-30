@@ -1,0 +1,1 @@
+(Prunus_avium_Prunavi_FUN_018510-T1.p1:0.903195,(Picea_abies_PICAB_chr05_M00001421881 gene_PICAB_chr05_G00001421880 seq_id_PA_chr05 type_cds:0.139664,(Taxus_chinensis_rna-gnl|WGS_JAHRHJ|evm2.model.Chr08.707 gene_gene-KI387_026075 seq_id_CM034153.1 type_cds:0.427844,Pinus_tabuliformis_Pt2G19870.1 gene_Pt2G19870 seq_id_chr2 type_cds:0.033233)n2:0.316798)n1:0.903195)n0;

@@ -1,0 +1,1 @@
+(Populus_tremula_Poptre_Potra2n5c12282.1:0.2057,((Taxus_chinensis_rna-gnl|WGS_JAHRHJ|evm2.model.Chr03.3086 gene_gene-KI387_011061 seq_id_CM034148.1 type_cds:0.872742,Sequoiadendron_giganteum_nbisL2-cds-17809 gene_SEGI_17602 seq_id_chr11 type_cds:0.125865)n2:0.479556,Pinus_tabuliformis_Pt4G22790.1 gene_Pt4G22790 seq_id_chr4 type_cds:0.420876)n1:0.2057)n0;

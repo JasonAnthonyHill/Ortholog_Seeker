@@ -1,0 +1,1 @@
+((Sequoiadendron_giganteum_nbisL2-cds-37611 gene_SEGI_08916 seq_id_chr5 type_cds:0.407877,Pinus_tabuliformis_PtXG49180.1 gene_PtXG49180 seq_id_chr10 type_cds:0.644922)n1:0.188054,((Populus_tremula_Poptre_Potra2n18c31978.1:0.023561,Populus_tremula_Poptre_Potra2n1383s37018.1:0.857282)n3:0.370132,Populus_tremula_Poptre_Potra2n556s35947.1:0.946023)n2:0.188054)n0;

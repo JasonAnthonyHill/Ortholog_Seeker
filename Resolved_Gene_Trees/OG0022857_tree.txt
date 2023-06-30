@@ -1,0 +1,1 @@
+(Malus_domestica_evm.model.Backbone_208.2 gene_evm.model.Backbone_208.2.g seq_id_Backbone_208 type_cds:0.25284,(Welwitschia_mirabilis_W.mirabilis.20705  locus_Chr09_206145408_206147724_+ _translate_table_ standard_:1.09298,(Ginkgo_biloba_Gb_34870 _translate_table_ standard_:0.899526,Ginkgo_biloba_Gb_14156 _translate_table_ standard_:0.272174)n2:0.0302415)n1:0.145279)n0;

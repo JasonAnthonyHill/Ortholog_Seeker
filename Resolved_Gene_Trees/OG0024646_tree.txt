@@ -1,0 +1,1 @@
+(Pinus_tabuliformis_Pt2G19010.1 gene_Pt2G19010 seq_id_chr2 type_cds:0.0474175,((Pinus_tabuliformis_Pt7G06360.1 gene_Pt7G06360 seq_id_chr7 type_cds:0.156675,Pinus_tabuliformis_Pt1G24190.1 gene_Pt1G24190 seq_id_chr1 type_cds:0.12131)n2:0.066987,Pinus_tabuliformis_Pt5G24750.1 gene_Pt5G24750 seq_id_chr5 type_cds:0.107053)n1:0.0474175)n0;

@@ -1,0 +1,1 @@
+(Picea_abies_PICAB_chr02_M00000571716 gene_PICAB_chr02_G00000571715 seq_id_PA_chr02 type_cds:0.773899,((Ginkgo_biloba_Gb_33401 _translate_table_ standard_:0.384779,Ginkgo_biloba_Gb_26677 _translate_table_ standard_:0.372609)n2:0.027574,Ginkgo_biloba_Gb_09597 _translate_table_ standard_:0.394623)n1:0.773899)n0;

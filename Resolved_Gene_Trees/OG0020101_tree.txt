@@ -1,0 +1,1 @@
+(Pinus_tabuliformis_PtXG36520.1 gene_PtXG36520 seq_id_chr10 type_cds:0.305611,((Ginkgo_biloba_Gb_10607 _translate_table_ standard_:0.335473,(Ginkgo_biloba_Gb_37747 _translate_table_ standard_:0.224816,Ginkgo_biloba_Gb_04013 _translate_table_ standard_:0.768514)n3:0.330263)n2:0.374882,Ginkgo_biloba_Gb_14158 _translate_table_ standard_:0.486191)n1:0.305611)n0;

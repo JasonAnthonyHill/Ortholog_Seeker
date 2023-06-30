@@ -1,0 +1,1 @@
+(Prunus_avium_Prunavi_FUN_037970-T1.p1:0.522509,((Sequoiadendron_giganteum_nbisL2-cds-33620 gene_SEGI_07601 seq_id_chr8 type_cds:0.442388,Ginkgo_biloba_Gb_40737 _translate_table_ standard_:1.22676)n2:0.103489,Pinus_tabuliformis_PtQG06510.1 gene_PtQG06510 seq_id_chr12 type_cds:0.815371)n1:0.522509)n0;

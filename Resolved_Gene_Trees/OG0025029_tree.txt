@@ -1,0 +1,1 @@
+((Pinus_tabuliformis_Pt6G34760.1 gene_Pt6G34760 seq_id_chr6 type_cds:0.879517,Pinus_tabuliformis_Pt7G42940.1 gene_Pt7G42940 seq_id_chr7 type_cds:0.052349)n1:0.479323,(Populus_tremula_Poptre_Potra2n4c8506.4:0.165571,Populus_tremula_Poptre_Potra2n3c7883.6:0.242658)n2:0.479323)n0;

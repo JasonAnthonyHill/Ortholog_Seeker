@@ -1,0 +1,1 @@
+((Malania_oleifera_Maole_016289.T1 gene_Maole_016289 seq_id_scaffold190 type_cds:0.34202,Camellia_sinensis_rna-gnl|WGS_SDRB|TEA011395.1 gene_gene-TEA_010173 seq_id_SDRB02012978.1 type_cds:0.319232)n1:0.203519,(Populus_tremula_Poptre_Potra2n13c25566.1:0.048668,Salix_purpurea_SapurV1A.1558s0040.1.v1.0 gene_SapurV1A.1558s0040.v1.0 seq_id_chr13 type_cds:0.112575)n2:0.203519)n0;

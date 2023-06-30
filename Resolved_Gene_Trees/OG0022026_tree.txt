@@ -1,0 +1,1 @@
+(Zostera_marina_Zosma91g00410.1.v2.2 gene_Zosma91g00410.v2.2 seq_id_scaffold_91 type_cds:0.63918,(Arabidopsis_thaliana_PAC_19658759 gene_AT3G42780 seq_id_Chr3 type_cds:0.208955,(Arabidopsis_thaliana_PAC_19659342 gene_AT3G42786 seq_id_Chr3 type_cds:0.595237,Arabidopsis_thaliana_PAC_19661402 gene_AT3G09130 seq_id_Chr3 type_cds:0.442278)n2:0.677065)n1:0.63918)n0;

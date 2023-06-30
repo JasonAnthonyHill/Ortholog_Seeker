@@ -1,0 +1,1 @@
+(Nicotiana_tabacum_Nitab4.5_0025005g0010.1 gene_Nitab4.5_0025005g0010 seq_id_Nitab4.5_0025005 type_cds:0.674199,(Ginkgo_biloba_Gb_31619 _translate_table_ standard_:0.428304,(Ginkgo_biloba_Gb_23372 _translate_table_ standard_:0.271399,Ginkgo_biloba_Gb_22558 _translate_table_ standard_:0.734461)n2:0.409602)n1:0.674199)n0;

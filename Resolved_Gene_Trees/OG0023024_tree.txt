@@ -1,0 +1,1 @@
+(Malus_domestica_evm.model.Backbone_2897.1 gene_evm.model.Backbone_2897.1.g seq_id_Backbone_2897 type_cds:0.264253,(Ginkgo_biloba_Gb_11284 _translate_table_ standard_:0.091234,(Sequoiadendron_giganteum_nbisL2-cds-18501 gene_SEGI_32515 seq_id_chr10 type_cds:0.360248,Sequoiadendron_giganteum_nbisL2-cds-15387 gene_SEGI_33897 seq_id_chr2 type_cds:0.702441)n2:0.078049)n1:0.054724)n0;

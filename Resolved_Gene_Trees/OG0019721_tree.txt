@@ -1,0 +1,1 @@
+((Betula_pendula_Betpen_Bpev01.c0051.g0086.m0001:0.376334,Betula_pendula_Betpen_Bpev01.c1165.g0003.m0001:0.156094)n1:0.266293,(Ginkgo_biloba_Gb_09821 _translate_table_ standard_:1.06785,(Pinus_tabuliformis_Pt7G27390.1 gene_Pt7G27390 seq_id_chr7 type_cds:0.797596,Pinus_tabuliformis_Pt9G32960.1 gene_Pt9G32960 seq_id_chr9 type_cds:0.223574)n3:0.0248416)n2:0.265372)n0;

@@ -1,0 +1,1 @@
+(Arabidopsis_thaliana_PAC_19650124 gene_AT1G51000 seq_id_Chr1 type_cds:0.344039,((Arabidopsis_thaliana_PAC_19655459 gene_AT1G51010 seq_id_Chr1 type_cds:0.175692,Arabidopsis_thaliana_PAC_19657401 gene_AT1G51030 seq_id_Chr1 type_cds:0.418109)n2:0.036526,Arabidopsis_thaliana_PAC_19653960 gene_AT1G51020 seq_id_Chr1 type_cds:0.149069)n1:0.344039)n0;

@@ -1,0 +1,1 @@
+(Arabidopsis_thaliana_PAC_19654083 gene_AT1G27160 seq_id_Chr1 type_cds:0.542726,((Pinus_tabuliformis_Pt9G14640.1 gene_Pt9G14640 seq_id_chr9 type_cds:1.90992e-06,Pinus_tabuliformis_Pt9G14660.1 gene_Pt9G14660 seq_id_chr9 type_cds:0.639214)n2:0.285368,Pinus_tabuliformis_Pt9G14610.1 gene_Pt9G14610 seq_id_chr9 type_cds:1.90992e-06)n1:0.542726)n0;

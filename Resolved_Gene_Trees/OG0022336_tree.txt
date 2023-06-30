@@ -1,0 +1,1 @@
+(Betula_pendula_Betpen_Bpev01.c0562.g0001.m0001:0.436889,(Pinus_tabuliformis_PtJG14700.1 gene_PtJG14700 seq_id_chr11 type_cds:0.084244,(Picea_abies_PICAB_chr10_M00002722722 gene_PICAB_chr10_G00002722721 seq_id_PA_chr10 type_cds:0.019873,Ginkgo_biloba_Gb_36433 _translate_table_ standard_:0.417113)n2:0.055063)n1:0.436889)n0;

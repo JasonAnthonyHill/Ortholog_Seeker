@@ -1,0 +1,1 @@
+(Malania_oleifera_Maole_007992.T1 gene_Maole_007992 seq_id_scaffold8 type_cds:0.192099,(Malania_oleifera_Maole_022994.T1 gene_Maole_022994 seq_id_scaffold459 type_cds:0.196642,(Malania_oleifera_Maole_011296.T1 gene_Maole_011296 seq_id_scaffold79 type_cds:0.106426,Malania_oleifera_Maole_023002.T1 gene_Maole_023002 seq_id_scaffold459 type_cds:0.242951)n2:0.187801)n1:0.192099)n0;

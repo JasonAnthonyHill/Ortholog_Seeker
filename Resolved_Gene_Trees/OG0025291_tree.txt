@@ -1,0 +1,1 @@
+(Vitis_vinifera_GSVIVT01007673001.Genoscope12X gene_GSVIVG01007673001.Genoscope12X seq_id_chr17 type_cds:0.421503,(Prunus_avium_Prunavi_FUN_025840-T1.p1:0.58059,(Prunus_avium_Prunavi_FUN_025841-T1.p1:0.76135,Prunus_avium_Prunavi_FUN_025842-T1.p1:0.727335)n2:0.106896)n1:0.421503)n0;

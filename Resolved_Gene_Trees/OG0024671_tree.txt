@@ -1,0 +1,1 @@
+(Welwitschia_mirabilis_W.mirabilis.18226  locus_Chr03_70695941_70697601_+ _translate_table_ standard_:0.758707,((Pinus_tabuliformis_Pt1G33340.1 gene_Pt1G33340 seq_id_chr1 type_cds:0.140645,Pinus_tabuliformis_Pt1G33320.1 gene_Pt1G33320 seq_id_chr1 type_cds:0.109302)n2:0.012065,Pinus_tabuliformis_Pt6G55430.1 gene_Pt6G55430 seq_id_chr6 type_cds:0.416153)n1:0.758707)n0;

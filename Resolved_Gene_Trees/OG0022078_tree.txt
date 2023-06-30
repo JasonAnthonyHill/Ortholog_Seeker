@@ -1,0 +1,1 @@
+(Betula_pendula_Betpen_Bpev01.c0294.g0014.m0001:0.474121,(Beta_vulgaris_Bv8_183270_gofx.t1 gene_Bv8_183270_gofx seq_id_Bvchr8.sca002 type_cds:0.651255,(Beta_vulgaris_Bv8_183260_hjci.t1 gene_Bv8_183260_hjci seq_id_Bvchr8.sca002 type_cds:0.318798,Beta_vulgaris_Bv8_183280_nddm.t1 gene_Bv8_183280_nddm seq_id_Bvchr8.sca002 type_cds:0.572816)n2:0.068544)n1:0.474121)n0;

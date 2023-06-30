@@ -1,0 +1,1 @@
+((Populus_tremula_Poptre_Potra2n2c5417.1:0.391314,Prunus_avium_Prunavi_FUN_007662-T1.p1:0.494072)n1:0.143517,(Sequoiadendron_giganteum_nbisL2-cds-36695 gene_SEGI_00027 seq_id_chr1 type_cds:0.083191,(Pinus_tabuliformis_PtJG19600.1 gene_PtJG19600 seq_id_chr11 type_cds:0,Pinus_tabuliformis_PtJG52440.1 gene_PtJG52440 seq_id_chr11 type_cds:0)n3:0.147409)n2:0.143517)n0;

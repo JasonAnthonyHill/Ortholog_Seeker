@@ -1,0 +1,1 @@
+(Camellia_sinensis_rna-gnl|WGS_SDRB|TEA022745.1 gene_gene-TEA_020326 seq_id_SDRB02013350.1 type_cds:0.288796,((Populus_tremula_Poptre_Potra2n12c24853.1:0.762531,Prunus_avium_Prunavi_FUN_012781-T1.p1:0.548066)n2:0.365963,Malus_domestica_evm.model.Backbone_101.53 gene_evm.model.Backbone_101.53.g seq_id_Backbone_101 type_cds:0.459126)n1:0.288796)n0;
