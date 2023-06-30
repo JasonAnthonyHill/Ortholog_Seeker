@@ -165,12 +165,17 @@ server <- function(input, output) {
 
   # Load Newick Tree
   tree <- eventReactive(input$go, {
-    ape::read.tree(paste0("https://github.com/JasonAnthonyHill/Ortholog_Seeker/raw/main/Resolved_Gene_Trees/", filtered_data()$Ortholog_Group %>% unique(), "_tree.txt"))
+    ape::read.tree(paste0("https://github.com/JasonAnthonyHill/Ortholog_Seeker/raw/main/Resolved_Gene_Trees/", 
+                          filtered_data()$Ortholog_Group %>% unique(), 
+                          "_tree.txt"))
   })
 
   #Filter Newick Tree
   tree_filtered <- eventReactive(input$go, {
     tree <- tree()
+    tree$tip.label <- gsub("gene_gene","gene",tree$tip.label)
+    tree$tip.label <- gsub("gene","_gene",tree$tip.label)
+    tree$tip.label <- gsub("seq_id","_seq_id",tree$tip.label)
     ape::keep.tip(tree, grep(stringr::str_c(input$species,
                           collapse = "|"),
                         tree$tip.label)
