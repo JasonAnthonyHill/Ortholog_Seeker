@@ -14,12 +14,16 @@ library(arrow)
 library(shinycssloaders)
 
 #
-local <- T
+local <- F
 datapath <- if_else(local == T, "./", "https://github.com/JasonAnthonyHill/Ortholog_Seeker/raw/main/")
 
 # Import Data
 orthologs <- read_parquet(paste0(datapath, "orthologs.parquet"))
-spruce_gff <- readRDS(paste0(datapath, "annotation.RDS"))
+gene_list <- toupper(orthologs$gene)
+if(file.exists("annotation.RDS") == FALSE) {
+   download.file("https://github.com/JasonAnthonyHill/Ortholog_Seeker/raw/main/annotation.RDS", "annotation.RDS", mode = "wb")
+}
+spruce_gff <- readRDS("annotation.RDS")
 # species_tree <- read.tree(file = "species_list_v4.nwk")
 
 
