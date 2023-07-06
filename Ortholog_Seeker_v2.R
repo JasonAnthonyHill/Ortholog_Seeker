@@ -12,6 +12,8 @@ library(muscle)
 library(magrittr)
 library(arrow)
 library(shinycssloaders)
+library(tidytree)
+library(fuzzyjoin)
 
 #
 local <- F
@@ -31,31 +33,39 @@ spruce_gff <- readRDS("annotation.RDS")
 ui <- fluidPage(
   useShinyjs(),
   titlePanel("Ortholog Seeker"),
-  
   sidebarLayout(
     sidebarPanel(
+      width = 2,
       actionButton("selectall", label="Select/Deselect all"),
       checkboxGroupInput("species",
                          "Select a species:", 
                          choices = unique(orthologs$species),
-                         selected = unique(orthologs$species)),
-      textInput("gene", "Enter an Gene ID:", value = "AT2G27680"),
-      actionButton("go", "Update"),
-      br(),
-      downloadButton("download_filtered", "Download Filtered Ortholog List"),
-      downloadButton("download_fasta", "Download Fasta Sequences"),
-      downloadButton("download_fasta_aln", "Download Aligned Fasta Sequences"),
-      downloadButton("download_newick", "Download Newick Tree"),
-      downloadButton("download_gff", "Download spruce GFF3")
+                         selected = unique(orthologs$species))
     ),
     mainPanel(tabsetPanel(
+      tabPanel("Gene Tree",
+               h3("Ortholog tree and sequence download"),
+               br(),
+               h4("Useage instructions"),
+               p("Select species of interest on the sidebar and enter a gene name from one of those species in the box below, then hit GO!"),
+               p("The genes present in the ortholog group will be displayed below in their inferred phylogenetic relationship, with the search gene highlighted in",
+                 span("RED", style = "color:red"), "."),
+               p("Use your mouse to select a subset of genes in the tree, or the entire tree. Then use the download buttons to retrieve the fasta sequences of the selected genes in either aligned or unaligned format. Also available for download are the full phylogenetic tree of the orthogroup, the GFF3 file of any identified orthologs in the spruce genome, and an extened table with more details of each ortholog in the group."),
+               fluidRow(
+                 column(2, textInput("gene", "Enter an Gene ID:", value = "AT2G27680")),
+                 column(2, style = "margin-top: 25px;", actionButton("go", "GO!"))
+               ),
+               tableOutput("selectedOrthos"),
+               downloadButton("download_fasta", "Download Fasta Sequences"),
+               downloadButton("download_fasta_aln", "Download Aligned Fasta Sequences"),
+               downloadButton("download_newick", "Download Newick Tree"),
+               downloadButton("download_gff", "Download spruce GFF3"),
+               downloadButton("download_filtered", "Download Filtered Ortholog List"),
+               plotOutput("tree_plot", brush = "plot_brush") %>% withSpinner()
+      ),
       tabPanel("Ortholog count",
                h3("Ortholog count per species"),
                plotOutput("barstack") %>% withSpinner()
-      ),
-      tabPanel("Gene Tree",
-               h3("Resolved gene tree"),
-               plotOutput("tree_plot") %>% withSpinner()
       ),
       tabPanel("Ortholog table",
                h3("Ortholog Table"),
@@ -141,13 +151,23 @@ server <- function(input, output) {
       paste0("Ortholog_Sequences_", filtered_data()$Ortholog_Group, ".fasta")
     },
     content = function(file) {
-      Biostrings::writeXStringSet(fasta(), filepath = file)
+      Biostrings::writeXStringSet(fasta() %>% 
+                                    .[grepl(stringr::str_c(brushedPoints(make_tree()$data, input$plot_brush) %>% 
+                                                             select(species, gene, seqid) %>% 
+                                                             drop_na() %>% 
+                                                             pull(gene),
+                                                           collapse = "|"), .@ranges@NAMES)], filepath = file)
     }
   )
   
   # Align fasta file
   aln_fasta <- eventReactive(input$go, {
     fasta() %>% 
+      .[grepl(stringr::str_c(brushedPoints(make_tree()$data, input$plot_brush) %>% 
+                               select(species, gene, seqid) %>% 
+                               drop_na() %>% 
+                               pull(gene),
+                             collapse = "|"), .@ranges@NAMES)] %>% 
       muscle::muscle() %>% as("AAStringSet")
   })
 
@@ -163,6 +183,10 @@ server <- function(input, output) {
 
   # Load Newick Tree
   tree <- eventReactive(input$go, {
+    validate(
+      need(toupper(trimws(input$gene)) %in% gene_list,
+           "Gene ID not found in dataset") 
+    )
     ape::read.tree(paste0(datapath, "Resolved_Gene_Trees/", 
                           filtered_data()$Ortholog_Group %>% unique(), 
                           "_tree.txt"))
@@ -170,6 +194,10 @@ server <- function(input, output) {
 
   #Filter Newick Tree
   tree_filtered <- eventReactive(input$go, {
+    validate(
+      need(toupper(trimws(input$gene)) %in% gene_list,
+           "Gene ID not found in dataset")
+    )
     tree <- tree()
     tree$tip.label <- gsub("gene_gene","gene",tree$tip.label)
     tree$tip.label <- gsub("gene","_gene",tree$tip.label)
@@ -188,16 +216,33 @@ server <- function(input, output) {
   )
   
   # Output filtered tree
+  make_tree <- eventReactive(input$go, {
+    
+    treemetadata <- tibble(tiplabel = tree_filtered()$tip.label) %>% 
+      regex_left_join(filtered_data(),
+                      by = c("tiplabel" = "gene")) %>% 
+      mutate(selected_gene_col = if_else(toupper(gene) == toupper(trimws(input$gene)), "red", "black"))
+    
+    p <- ggtree(tree_filtered()) %<+% treemetadata
+    p +
+      geom_tiplab(aes(label = paste(species, gene), color = selected_gene_col)) +
+      scale_color_identity() +
+      xlim(0,2) +
+      labs(title = filtered_data()$Ortholog_Group)
+  })
+  
   output$tree_plot <- renderPlot(
     width = 1000,
     height = function() 20 * (tree_tipcount() + 1),
     {
-    treefile <- tree_filtered()
-    # treefile <- tree()
-    ggtree::ggtree(treefile) + 
-      ggtree::geom_tiplab() +
-      ggtree::xlim(0,2) +
-      ggplot2::labs(title = filtered_data()$Ortholog_Group)
+      make_tree()
+  })
+  
+  # Catch the selected tips in box brush
+  output$selectedOrthos <- renderTable({
+    brushedPoints(make_tree()$data, input$plot_brush) %>% 
+      select(species, gene, seqid) %>% 
+      drop_na()
   })
   
   
